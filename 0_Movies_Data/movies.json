@@ -1,0 +1,2937 @@
+{
+      "name": "Harry Potter and the Philosopher's Stone",
+      "gross_revenue": {
+        "amount": 974755371,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 130000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Family",
+        "Fiction"
+      ],
+      "directed_by": [
+        "Chris Columbus"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Robbie Coltrane"
+        },
+        {
+          "actor": "John Hurt"
+        },
+        {
+          "actor": "Richard Bremmer"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Richard Harris"
+        },
+        {
+          "actor": "Jamie Waylett"
+        },
+        {
+          "actor": "Oliver Phelps"
+        }
+      ],
+      "tagline": [
+        "Let The Magic Begin."
+      ]
+    },
+    {
+      "name": "Star Wars",
+      "gross_revenue": {
+        "amount": 775398007,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 13000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Action Film",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "directed_by": [
+        "George Lucas"
+      ],
+      "starring": [
+        {
+          "actor": "Mark Hamill"
+        },
+        {
+          "actor": "Harrison Ford"
+        },
+        {
+          "actor": "Carrie Fisher"
+        },
+        {
+          "actor": "Peter Cushing"
+        },
+        {
+          "actor": "Alec Guinness"
+        },
+        {
+          "actor": "Peter Mayhew"
+        },
+        {
+          "actor": "Anthony Daniels"
+        },
+        {
+          "actor": "David Prowse"
+        },
+        {
+          "actor": "Kenny Baker"
+        },
+        {
+          "actor": "James Earl Jones"
+        }
+      ],
+      "tagline": [
+        "A long time ago, in a galaxy far, far away...",
+        "It's Back! (re-release)"
+      ]
+    },
+    {
+      "name": "E.T. the Extra-Terrestrial",
+      "gross_revenue": {
+        "amount": 792910554,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 10500000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Family",
+        "Adventure Film",
+        "Fantasy",
+        "Drama"
+      ],
+      "directed_by": [
+        "Steven Spielberg"
+      ],
+      "starring": [
+        {
+          "actor": "Henry Thomas"
+        },
+        {
+          "actor": "Dee Wallace"
+        },
+        {
+          "actor": "Robert MacNaughton"
+        },
+        {
+          "actor": "Drew Barrymore"
+        },
+        {
+          "actor": "Peter Coyote"
+        },
+        {
+          "actor": "Debra Winger"
+        },
+        {
+          "actor": "K. C. Martel"
+        },
+        {
+          "actor": "C. Thomas Howell"
+        },
+        {
+          "actor": "Erika Eleniak"
+        },
+        {
+          "actor": "Michael Darrell"
+        }
+      ],
+      "tagline": [
+        "He is afraid. He is alone. He is three million light years from home.",
+        "The Story that Touched the World!",
+        "The Extra-Terrestrial In His Adventure On Earth."
+      ]
+    },
+    {
+      "name": "Avatar",
+      "gross_revenue": {
+        "amount": 2782275172,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 237000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Adventure Film",
+        "Fantasy",
+        "Action Film"
+      ],
+      "directed_by": [
+        "James Cameron"
+      ],
+      "starring": [
+        {
+          "actor": "Zoe Saldana"
+        },
+        {
+          "actor": "Sam Worthington"
+        },
+        {
+          "actor": "Sigourney Weaver"
+        },
+        {
+          "actor": "C. C. H. Pounder"
+        },
+        {
+          "actor": "Giovanni Ribisi"
+        },
+        {
+          "actor": "Stephen Lang"
+        },
+        {
+          "actor": "Michelle Rodriguez"
+        },
+        {
+          "actor": "Joel David Moore"
+        },
+        {
+          "actor": "Laz Alonso"
+        },
+        {
+          "actor": "Wes Studi"
+        }
+      ],
+      "tagline": [
+        "Enter the World"
+      ]
+    },
+    {
+      "name": "Star Wars Episode I: The Phantom Menace",
+      "gross_revenue": {
+        "amount": 1027044330,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 115000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Fantasy",
+        "Adventure Film",
+        "Action Film",
+        "Family"
+      ],
+      "directed_by": [
+        "George Lucas"
+      ],
+      "starring": [
+        {
+          "actor": "Ewan McGregor"
+        },
+        {
+          "actor": "Natalie Portman"
+        },
+        {
+          "actor": "Liam Neeson"
+        },
+        {
+          "actor": "Ian McDiarmid"
+        },
+        {
+          "actor": "Samuel L. Jackson"
+        },
+        {
+          "actor": "Kenny Baker"
+        },
+        {
+          "actor": "Jake Lloyd"
+        },
+        {
+          "actor": "Frank Oz"
+        },
+        {
+          "actor": "Keira Knightley"
+        },
+        {
+          "actor": "Ray Park"
+        }
+      ],
+      "tagline": [
+        "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+        "The saga begins Spring 1999.",
+        "The Force Returns May 19th.",
+        "The Saga Begins May 19th."
+      ]
+    },
+    {
+      "name": "Troy",
+      "gross_revenue": {
+        "amount": 497409852,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 185000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Romance Film",
+        "Costume drama",
+        "War film",
+        "Adventure Film",
+        "Sword and Sandal film",
+        "History",
+        "Epic film",
+        "Historical fiction"
+      ],
+      "directed_by": [
+        "Wolfgang Petersen"
+      ],
+      "starring": [
+        {
+          "actor": "Brad Pitt"
+        },
+        {
+          "actor": "Peter O'Toole"
+        },
+        {
+          "actor": "Eric Bana"
+        },
+        {
+          "actor": "Orlando Bloom"
+        },
+        {
+          "actor": "Brian Cox"
+        },
+        {
+          "actor": "Sean Bean"
+        },
+        {
+          "actor": "Diane Kruger"
+        },
+        {
+          "actor": "Julian Glover"
+        },
+        {
+          "actor": "Garrett Hedlund"
+        },
+        {
+          "actor": "Adoni Maropis"
+        }
+      ],
+      "tagline": [
+        "For Honor",
+        "for passion",
+        "for troy"
+      ]
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows – Part 2",
+      "gross_revenue": {
+        "amount": 1328111219,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 250000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Fantasy",
+        "Adventure Film",
+        "Mystery",
+        "Fiction",
+        "Drama"
+      ],
+      "directed_by": [
+        "David Yates"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Helena Bonham Carter"
+        },
+        {
+          "actor": "Ralph Fiennes"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Michael Gambon"
+        },
+        {
+          "actor": "Tom Felton"
+        },
+        {
+          "actor": "Bonnie Wright"
+        },
+        {
+          "actor": "Ciarán Hinds"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "The Avengers",
+      "gross_revenue": {
+        "amount": 1399633764,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 220000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Science Fiction",
+        "Fantasy"
+      ],
+      "directed_by": [
+        "Joss Whedon"
+      ],
+      "starring": [
+        {
+          "actor": "Robert Downey Jr."
+        },
+        {
+          "actor": "Chris Evans"
+        },
+        {
+          "actor": "Mark Ruffalo"
+        },
+        {
+          "actor": "Mark Ruffalo"
+        },
+        {
+          "actor": "Chris Hemsworth"
+        },
+        {
+          "actor": "Scarlett Johansson"
+        },
+        {
+          "actor": "Jeremy Renner"
+        },
+        {
+          "actor": "Tom Hiddleston"
+        },
+        {
+          "actor": "Clark Gregg"
+        },
+        {
+          "actor": "Cobie Smulders"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Transformers: Dark of the Moon",
+      "gross_revenue": {
+        "amount": 1123746996,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 195000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Science Fiction",
+        "Adventure Film"
+      ],
+      "directed_by": [
+        "Michael Bay"
+      ],
+      "starring": [
+        {
+          "actor": "Shia LaBeouf"
+        },
+        {
+          "actor": "Josh Duhamel"
+        },
+        {
+          "actor": "Tyrese Gibson"
+        },
+        {
+          "actor": "Patrick Dempsey"
+        },
+        {
+          "actor": "Frances McDormand"
+        },
+        {
+          "actor": "Rosie Huntington-Whiteley"
+        },
+        {
+          "actor": "Peter Cullen"
+        },
+        {
+          "actor": "John Turturro"
+        },
+        {
+          "actor": "Frank Welker"
+        },
+        {
+          "actor": "Lester Speight"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "gross_revenue": {
+        "amount": 1119929521,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 94000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Fantasy",
+        "Action Film"
+      ],
+      "directed_by": [
+        "Peter Jackson"
+      ],
+      "starring": [
+        {
+          "actor": "Elijah Wood"
+        },
+        {
+          "actor": "Sean Astin"
+        },
+        {
+          "actor": "Viggo Mortensen"
+        },
+        {
+          "actor": "Ian McKellen"
+        },
+        {
+          "actor": "Orlando Bloom"
+        },
+        {
+          "actor": "Andy Serkis"
+        },
+        {
+          "actor": "Billy Boyd"
+        },
+        {
+          "actor": "Bernard Hill"
+        },
+        {
+          "actor": "Hugo Weaving"
+        },
+        {
+          "actor": "Ian Holm"
+        }
+      ],
+      "tagline": [
+        "The Journey Ends.",
+        "There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.",
+        "The eye of the enemy is moving."
+      ]
+    },
+    {
+      "name": "Titanic",
+      "gross_revenue": {
+        "amount": 2185240703,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 200000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Romance Film",
+        "Epic film",
+        "Historical drama",
+        "Drama"
+      ],
+      "directed_by": [
+        "James Cameron"
+      ],
+      "starring": [
+        {
+          "actor": "Leonardo DiCaprio"
+        },
+        {
+          "actor": "Kate Winslet"
+        },
+        {
+          "actor": "Billy Zane"
+        },
+        {
+          "actor": "Kathy Bates"
+        },
+        {
+          "actor": "Frances Fisher"
+        },
+        {
+          "actor": "Gloria Stuart"
+        },
+        {
+          "actor": "Bill Paxton"
+        },
+        {
+          "actor": "Bernard Hill"
+        },
+        {
+          "actor": "David Warner"
+        },
+        {
+          "actor": "Victor Garber"
+        }
+      ],
+      "tagline": [
+        "The most incredible thing that ever happened is about to happen to you.",
+        "Nothing On Earth Could Come Between Them.",
+        "Collide With Destiny."
+      ]
+    },
+    {
+      "name": "Pirates of the Caribbean: Dead Man's Chest",
+      "gross_revenue": {
+        "amount": 1066179725,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 225000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Adventure Film",
+        "Fantasy",
+        "Swashbuckler film",
+        "Adventure Comedy",
+        "Fantasy Adventure"
+      ],
+      "directed_by": [
+        "Gore Verbinski"
+      ],
+      "starring": [
+        {
+          "actor": "Johnny Depp"
+        },
+        {
+          "actor": "Orlando Bloom"
+        },
+        {
+          "actor": "Keira Knightley"
+        },
+        {
+          "actor": "Bill Nighy"
+        },
+        {
+          "actor": "Stellan Skarsgård"
+        },
+        {
+          "actor": "Jack Davenport"
+        },
+        {
+          "actor": "Kevin McNally"
+        },
+        {
+          "actor": "Jonathan Pryce"
+        },
+        {
+          "actor": "Tom Hollander"
+        },
+        {
+          "actor": "Naomie Harris"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Toy Story 3",
+      "gross_revenue": {
+        "amount": 1063171911,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 200000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Family",
+        "Adventure Film",
+        "Fantasy",
+        "Animation",
+        "Adventure Comedy",
+        "Children's Fantasy",
+        "Comedy",
+        "Comedy-drama"
+      ],
+      "directed_by": [
+        "Lee Unkrich"
+      ],
+      "starring": [
+        {
+          "actor": "Tom Hanks"
+        },
+        {
+          "actor": "Tim Allen"
+        },
+        {
+          "actor": "Wallace Shawn"
+        },
+        {
+          "actor": "John Ratzenberger"
+        },
+        {
+          "actor": "Don Rickles"
+        },
+        {
+          "actor": "Joan Cusack"
+        },
+        {
+          "actor": "Ned Beatty"
+        },
+        {
+          "actor": "Estelle Harris"
+        },
+        {
+          "actor": "Jodi Benson"
+        },
+        {
+          "actor": "Whoopi Goldberg"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Pirates of the Caribbean: On Stranger Tides",
+      "gross_revenue": {
+        "amount": 1043871802,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 250000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Fantasy",
+        "Adventure Film",
+        "Swashbuckler film",
+        "Adventure Comedy",
+        "Costume Adventure"
+      ],
+      "directed_by": [
+        "Rob Marshall"
+      ],
+      "starring": [
+        {
+          "actor": "Johnny Depp"
+        },
+        {
+          "actor": "Geoffrey Rush"
+        },
+        {
+          "actor": "Ian McShane"
+        },
+        {
+          "actor": "Stephen Graham"
+        },
+        {
+          "actor": "Penélope Cruz"
+        },
+        {
+          "actor": "Kevin McNally"
+        },
+        {
+          "actor": "Keith Richards"
+        },
+        {
+          "actor": "Richard Griffiths"
+        },
+        {
+          "actor": "Àstrid Bergès-Frisbey"
+        },
+        {
+          "actor": "Sam Claflin"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Alice in Wonderland",
+      "gross_revenue": {
+        "amount": 1024299904,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 200000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Fantasy",
+        "Computer Animation",
+        "Adventure Film",
+        "Family"
+      ],
+      "directed_by": [
+        "Tim Burton"
+      ],
+      "starring": [
+        {
+          "actor": "Matt Lucas"
+        },
+        {
+          "actor": "Anne Hathaway"
+        },
+        {
+          "actor": "Helena Bonham Carter"
+        },
+        {
+          "actor": "Johnny Depp"
+        },
+        {
+          "actor": "Mia Wasikowska"
+        },
+        {
+          "actor": "Michael Sheen"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Timothy Spall"
+        },
+        {
+          "actor": "Stephen Fry"
+        },
+        {
+          "actor": "Christopher Lee"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "The Dark Knight",
+      "gross_revenue": {
+        "amount": 1001921825,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 180000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Crime Fiction",
+        "Thriller",
+        "Adventure Film",
+        "Superhero movie",
+        "Film noir",
+        "Drama"
+      ],
+      "directed_by": [
+        "Christopher Nolan"
+      ],
+      "starring": [
+        {
+          "actor": "Michael Caine"
+        },
+        {
+          "actor": "Gary Oldman"
+        },
+        {
+          "actor": "Aaron Eckhart"
+        },
+        {
+          "actor": "Christian Bale"
+        },
+        {
+          "actor": "Maggie Gyllenhaal"
+        },
+        {
+          "actor": "Michael Jai White"
+        },
+        {
+          "actor": "Morgan Freeman"
+        },
+        {
+          "actor": "Ron Dean"
+        },
+        {
+          "actor": "Cillian Murphy"
+        },
+        {
+          "actor": "Monique Gabriela Curnen"
+        }
+      ],
+      "tagline": [
+        "Welcome to a world without rules.",
+        "Can you avenge evil and not become it?",
+        "Out of the darkness, comes the Knight.",
+        "Why so serious?"
+      ]
+    },
+    {
+      "name": "Pirates of the Caribbean: At World's End",
+      "gross_revenue": {
+        "amount": 963420425,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 300000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Adventure Film",
+        "Fantasy"
+      ],
+      "directed_by": [
+        "Gore Verbinski"
+      ],
+      "starring": [
+        {
+          "actor": "Johnny Depp"
+        },
+        {
+          "actor": "Bill Nighy"
+        },
+        {
+          "actor": "Orlando Bloom"
+        },
+        {
+          "actor": "Geoffrey Rush"
+        },
+        {
+          "actor": "Keira Knightley"
+        },
+        {
+          "actor": "Jack Davenport"
+        },
+        {
+          "actor": "Stellan Skarsgård"
+        },
+        {
+          "actor": "Chow Yun-Fat"
+        },
+        {
+          "actor": "Lee Arenberg"
+        },
+        {
+          "actor": "Mackenzie Crook"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Harry Potter and the Deathly Hallows - Part I",
+      "gross_revenue": {
+        "amount": 956399711,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 250000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Fantasy",
+        "Adventure Film",
+        "Family",
+        "Mystery",
+        "Action Film",
+        "Fiction",
+        "Drama"
+      ],
+      "directed_by": [
+        "David Yates"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Mark Williams"
+        },
+        {
+          "actor": "Toby Jones"
+        },
+        {
+          "actor": "Tom Felton"
+        },
+        {
+          "actor": "Matthew Lewis"
+        },
+        {
+          "actor": "Ralph Fiennes"
+        },
+        {
+          "actor": "Simon McBurney"
+        }
+      ],
+      "tagline": [
+        "The Hunt Begins",
+        "It All Ends Here",
+        "Nowhere Is Safe"
+      ]
+    },
+    {
+      "name": "The Lion King",
+      "gross_revenue": {
+        "amount": 951583777,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 79300000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Animation",
+        "Musical",
+        "Family",
+        "Drama",
+        "Musical Drama"
+      ],
+      "directed_by": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ],
+      "starring": [
+        {
+          "actor": "Matthew Broderick"
+        },
+        {
+          "actor": "James Earl Jones"
+        },
+        {
+          "actor": "Jeremy Irons"
+        },
+        {
+          "actor": "Jonathan Taylor Thomas"
+        },
+        {
+          "actor": "Nathan Lane"
+        },
+        {
+          "actor": "Ernie Sabella"
+        },
+        {
+          "actor": "Robert Guillaume"
+        },
+        {
+          "actor": "Moira Kelly"
+        },
+        {
+          "actor": "Rowan Atkinson"
+        },
+        {
+          "actor": "Whoopi Goldberg"
+        }
+      ],
+      "tagline": [
+        "Life's greatest adventure is finding your place in the Circle of Life."
+      ]
+    },
+    {
+      "name": "Harry Potter and the Order of the Phoenix",
+      "gross_revenue": {
+        "amount": 939885929,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 150000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Family",
+        "Mystery",
+        "Adventure Film",
+        "Fantasy",
+        "Fantasy Adventure",
+        "Fiction"
+      ],
+      "directed_by": [
+        "David Yates"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Gary Oldman"
+        },
+        {
+          "actor": "Michael Gambon"
+        },
+        {
+          "actor": "Imelda Staunton"
+        },
+        {
+          "actor": "Ralph Fiennes"
+        },
+        {
+          "actor": "Robbie Coltrane"
+        },
+        {
+          "actor": "Helena Bonham Carter"
+        }
+      ],
+      "tagline": [
+        "You will lose everything",
+        "Evil Must Be Confronted.",
+        "The Rebellion Begins"
+      ]
+    },
+    {
+      "name": "Harry Potter and the Half-Blood Prince",
+      "gross_revenue": {
+        "amount": 934416487,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 250000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Fantasy",
+        "Mystery",
+        "Action Film",
+        "Family",
+        "Romance Film",
+        "Children's Fantasy",
+        "Children's/Family",
+        "Fantasy Adventure",
+        "Fiction"
+      ],
+      "directed_by": [
+        "David Yates"
+      ],
+      "starring": [
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Michael Gambon"
+        },
+        {
+          "actor": "Jim Broadbent"
+        },
+        {
+          "actor": "Tom Felton"
+        },
+        {
+          "actor": "Bonnie Wright"
+        },
+        {
+          "actor": "Helen McCrory"
+        },
+        {
+          "actor": "Rob Knox"
+        }
+      ],
+      "tagline": [
+        "Once again I must ask too much of you, Harry.",
+        "Dark Secrets Revealed"
+      ]
+    },
+    {
+      "name": "The Lord of the Rings: The Two Towers",
+      "gross_revenue": {
+        "amount": 926047111,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 94000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Fantasy",
+        "Action Film",
+        "Epic film",
+        "Drama"
+      ],
+      "directed_by": [
+        "Peter Jackson"
+      ],
+      "starring": [
+        {
+          "actor": "Elijah Wood"
+        },
+        {
+          "actor": "Sean Astin"
+        },
+        {
+          "actor": "Viggo Mortensen"
+        },
+        {
+          "actor": "Orlando Bloom"
+        },
+        {
+          "actor": "Andy Serkis"
+        },
+        {
+          "actor": "Ian McKellen"
+        },
+        {
+          "actor": "Billy Boyd"
+        },
+        {
+          "actor": "Bernard Hill"
+        },
+        {
+          "actor": "Hugo Weaving"
+        },
+        {
+          "actor": "John Rhys-Davies"
+        }
+      ],
+      "tagline": [
+        "The Journey Continues",
+        "The Battle for Middle-earth begins!"
+      ]
+    },
+    {
+      "name": "Shrek 2",
+      "gross_revenue": {
+        "amount": 919838758,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 125000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure Film",
+        "Fantasy"
+      ],
+      "directed_by": [
+        "Andrew Adamson",
+        "Kelly Asbury",
+        "Conrad Vernon"
+      ],
+      "starring": [
+        {
+          "actor": "Mike Myers"
+        },
+        {
+          "actor": "Eddie Murphy"
+        },
+        {
+          "actor": "Cameron Diaz"
+        },
+        {
+          "actor": "Julie Andrews"
+        },
+        {
+          "actor": "Antonio Banderas"
+        },
+        {
+          "actor": "John Cleese"
+        },
+        {
+          "actor": "Rupert Everett"
+        },
+        {
+          "actor": "Jennifer Saunders"
+        },
+        {
+          "actor": "Aron Warner"
+        },
+        {
+          "actor": "Kelly Asbury"
+        }
+      ],
+      "tagline": [
+        "In summer 2004, they're back for more...."
+      ]
+    },
+    {
+      "name": "Jurassic Park",
+      "gross_revenue": {
+        "amount": 914691118,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 63000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Adventure Film",
+        "Thriller"
+      ],
+      "directed_by": [
+        "Steven Spielberg"
+      ],
+      "starring": [
+        {
+          "actor": "Sam Neill"
+        },
+        {
+          "actor": "Laura Dern"
+        },
+        {
+          "actor": "Jeff Goldblum"
+        },
+        {
+          "actor": "Richard Attenborough"
+        },
+        {
+          "actor": "Joseph Mazzello"
+        },
+        {
+          "actor": "Samuel L. Jackson"
+        },
+        {
+          "actor": "Bob Peck"
+        },
+        {
+          "actor": "Martin Ferrero"
+        },
+        {
+          "actor": "Ariana Richards"
+        },
+        {
+          "actor": "BD Wong"
+        }
+      ],
+      "tagline": [
+        "An Adventure 65 Million Years In The Making."
+      ]
+    },
+    {
+      "name": "Harry Potter and the Goblet of Fire",
+      "gross_revenue": {
+        "amount": 896911078,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 150000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Family",
+        "Fantasy",
+        "Adventure Film",
+        "Thriller",
+        "Science Fiction",
+        "Supernatural",
+        "Mystery",
+        "Children's Fantasy",
+        "Children's/Family",
+        "Fantasy Adventure",
+        "Fiction"
+      ],
+      "directed_by": [
+        "Mike Newell"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Robbie Coltrane"
+        },
+        {
+          "actor": "Ralph Fiennes"
+        },
+        {
+          "actor": "Michael Gambon"
+        },
+        {
+          "actor": "Brendan Gleeson"
+        },
+        {
+          "actor": "Jason Isaacs"
+        },
+        {
+          "actor": "Gary Oldman"
+        },
+        {
+          "actor": "Maggie Smith"
+        }
+      ],
+      "tagline": [
+        "On November 18 Everything Will Change.",
+        "Dark And Difficult Times Lie Ahead.",
+        "\"Difficult times lie ahead, Harry.\""
+      ]
+    },
+    {
+      "name": "Spider-Man 3",
+      "gross_revenue": {
+        "amount": 890871626,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 250000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Action Film"
+      ],
+      "directed_by": [
+        "Sam Raimi"
+      ],
+      "starring": [
+        {
+          "actor": "Tobey Maguire"
+        },
+        {
+          "actor": "Kirsten Dunst"
+        },
+        {
+          "actor": "James Franco"
+        },
+        {
+          "actor": "Thomas Haden Church"
+        },
+        {
+          "actor": "Topher Grace"
+        },
+        {
+          "actor": "Bryce Dallas Howard"
+        },
+        {
+          "actor": "J.K. Simmons"
+        },
+        {
+          "actor": "James Cromwell"
+        },
+        {
+          "actor": "Theresa Russell"
+        },
+        {
+          "actor": "Dylan Baker"
+        }
+      ],
+      "tagline": [
+        "Every hero has a choice, to face the darkness... or be consumed by it.",
+        "The battle within.",
+        "One man will fight to find the hero within",
+        "Next summer, the greatest battle lies... within.",
+        "How long can any man fight the darkness... before he finds it in himself?"
+      ]
+    },
+    {
+      "name": "Ice Age: Dawn of the Dinosaurs",
+      "gross_revenue": {
+        "amount": 886686817,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 90000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Animation",
+        "Adventure Film",
+        "Romance Film",
+        "Family",
+        "Action Film",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "directed_by": [
+        "Carlos Saldanha",
+        "Mike Thurmeier"
+      ],
+      "starring": [
+        {
+          "actor": "Denis Leary"
+        },
+        {
+          "actor": "Ray Romano"
+        },
+        {
+          "actor": "Josh Peck"
+        },
+        {
+          "actor": "Seann William Scott"
+        },
+        {
+          "actor": "John Leguizamo"
+        },
+        {
+          "actor": "Queen Latifah"
+        },
+        {
+          "actor": "Joey King"
+        },
+        {
+          "actor": "Atticus Shaffer"
+        },
+        {
+          "actor": "Chris Wedge"
+        },
+        {
+          "actor": "Simon Pegg"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Harry Potter and the Chamber of Secrets",
+      "gross_revenue": {
+        "amount": 878979634,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 100000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Family",
+        "Fantasy",
+        "Mystery"
+      ],
+      "directed_by": [
+        "Chris Columbus"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Robbie Coltrane"
+        },
+        {
+          "actor": "Richard Harris"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Julian Glover"
+        },
+        {
+          "actor": "Jamie Waylett"
+        },
+        {
+          "actor": "Mark Williams"
+        },
+        {
+          "actor": "Toby Jones"
+        }
+      ],
+      "tagline": [
+        "\"Dobby Has Come To Warn You Sir.\"",
+        "The Chamber of Secrets has opened...",
+        "Hogwarts is back in session.",
+        "The Chamber of Secrets has been opened. Enemies of the heir... beware!",
+        "Something Evil Has Returned To Hogwarts!"
+      ]
+    },
+    {
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "gross_revenue": {
+        "amount": 871530324,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 93000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Fantasy",
+        "Action Film"
+      ],
+      "directed_by": [
+        "Peter Jackson"
+      ],
+      "starring": [
+        {
+          "actor": "Elijah Wood"
+        },
+        {
+          "actor": "Ian McKellen"
+        },
+        {
+          "actor": "Viggo Mortensen"
+        },
+        {
+          "actor": "Liv Tyler"
+        },
+        {
+          "actor": "Sean Astin"
+        },
+        {
+          "actor": "Sean Bean"
+        },
+        {
+          "actor": "Orlando Bloom"
+        },
+        {
+          "actor": "Billy Boyd"
+        },
+        {
+          "actor": "Dominic Monaghan"
+        },
+        {
+          "actor": "Ian Holm"
+        }
+      ],
+      "tagline": [
+        "One Ring To Rule Them All.",
+        "The Legend Comes to Life"
+      ]
+    },
+    {
+      "name": "Finding Nemo",
+      "gross_revenue": {
+        "amount": 867893978,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 94000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Animation",
+        "Adventure Film",
+        "Comedy",
+        "Family"
+      ],
+      "directed_by": [
+        "Andrew Stanton",
+        "Lee Unkrich"
+      ],
+      "starring": [
+        {
+          "actor": "Alexander Gould"
+        },
+        {
+          "actor": "Albert Brooks"
+        },
+        {
+          "actor": "Ellen DeGeneres"
+        },
+        {
+          "actor": "Willem Dafoe"
+        },
+        {
+          "actor": "Brad Garrett"
+        },
+        {
+          "actor": "Allison Janney"
+        },
+        {
+          "actor": "Austin Pendleton"
+        },
+        {
+          "actor": "Stephen Root"
+        },
+        {
+          "actor": "Vicki Lewis"
+        },
+        {
+          "actor": "Joe Ranft"
+        }
+      ],
+      "tagline": [
+        "There are 3.7 trillion fish in the ocean. They're looking for one.",
+        "Grab shell dude!"
+      ]
+    },
+    {
+      "name": "Star Wars Episode III: Revenge of the Sith",
+      "gross_revenue": {
+        "amount": 848754768,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 113000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Fantasy",
+        "Action Film",
+        "Adventure Film"
+      ],
+      "directed_by": [
+        "George Lucas"
+      ],
+      "starring": [
+        {
+          "actor": "Ewan McGregor"
+        },
+        {
+          "actor": "Natalie Portman"
+        },
+        {
+          "actor": "Ian McDiarmid"
+        },
+        {
+          "actor": "George Lucas"
+        },
+        {
+          "actor": "Kenny Baker"
+        },
+        {
+          "actor": "Samuel L. Jackson"
+        },
+        {
+          "actor": "Hayden Christensen"
+        },
+        {
+          "actor": "Frank Oz"
+        },
+        {
+          "actor": "Jimmy Smits"
+        },
+        {
+          "actor": "Rebecca Jackson Mendoza"
+        }
+      ],
+      "tagline": [
+        "The Saga Is Complete"
+      ]
+    },
+    {
+      "name": "Transformers: Revenge of the Fallen",
+      "gross_revenue": {
+        "amount": 836303693,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 200000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Science Fiction",
+        "Adventure Film",
+        "Thriller"
+      ],
+      "directed_by": [
+        "Michael Bay"
+      ],
+      "starring": [
+        {
+          "actor": "Tyrese Gibson"
+        },
+        {
+          "actor": "Matthew Marsden"
+        },
+        {
+          "actor": "Megan Fox"
+        },
+        {
+          "actor": "Shia LaBeouf"
+        },
+        {
+          "actor": "Peter Cullen"
+        },
+        {
+          "actor": "Josh Duhamel"
+        },
+        {
+          "actor": "John Turturro"
+        },
+        {
+          "actor": "Hugo Weaving"
+        },
+        {
+          "actor": "Michael Papajohn"
+        },
+        {
+          "actor": "Mark Ryan"
+        }
+      ],
+      "tagline": [
+        "Revenge is coming."
+      ]
+    },
+    {
+      "name": "Inception",
+      "gross_revenue": {
+        "amount": 823576195,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 160000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Action Film",
+        "Thriller",
+        "Mystery",
+        "Adventure Film"
+      ],
+      "directed_by": [
+        "Christopher Nolan"
+      ],
+      "starring": [
+        {
+          "actor": "Leonardo DiCaprio"
+        },
+        {
+          "actor": "Cillian Murphy"
+        },
+        {
+          "actor": "Ellen Page"
+        },
+        {
+          "actor": "Marion Cotillard"
+        },
+        {
+          "actor": "Michael Caine"
+        },
+        {
+          "actor": "Ken Watanabe"
+        },
+        {
+          "actor": "Tom Berenger"
+        },
+        {
+          "actor": "Tom Hardy"
+        },
+        {
+          "actor": "Joseph Gordon-Levitt"
+        },
+        {
+          "actor": "Lukas Haas"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Spider-Man",
+      "gross_revenue": {
+        "amount": 821708551,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 139000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Fantasy",
+        "Adventure Film"
+      ],
+      "directed_by": [
+        "Sam Raimi"
+      ],
+      "starring": [
+        {
+          "actor": "Tobey Maguire"
+        },
+        {
+          "actor": "Willem Dafoe"
+        },
+        {
+          "actor": "Kirsten Dunst"
+        },
+        {
+          "actor": "James Franco"
+        },
+        {
+          "actor": "Bruce Campbell"
+        },
+        {
+          "actor": "Cliff Robertson"
+        },
+        {
+          "actor": "Rosemary Harris"
+        },
+        {
+          "actor": "J.K. Simmons"
+        },
+        {
+          "actor": "Stan Lee"
+        },
+        {
+          "actor": "Michael Papajohn"
+        }
+      ],
+      "tagline": [
+        "With great power comes great responsibility.",
+        "There is a thin line between a normal man and a hero, a line that one young man is about to cross."
+      ]
+    },
+    {
+      "name": "Independence Day",
+      "gross_revenue": {
+        "amount": 817400891,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 75000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Thriller",
+        "Action/Adventure",
+        "Action Film"
+      ],
+      "directed_by": [
+        "Roland Emmerich"
+      ],
+      "starring": [
+        {
+          "actor": "Jeff Goldblum"
+        },
+        {
+          "actor": "Will Smith"
+        },
+        {
+          "actor": "Bill Pullman"
+        },
+        {
+          "actor": "Margaret Colin"
+        },
+        {
+          "actor": "Vivica A. Fox"
+        },
+        {
+          "actor": "Judd Hirsch"
+        },
+        {
+          "actor": "Mary McDonnell"
+        },
+        {
+          "actor": "Robert Loggia"
+        },
+        {
+          "actor": "Randy Quaid"
+        },
+        {
+          "actor": "Brent Spiner"
+        }
+      ],
+      "tagline": [
+        "EARTH - Take a good look. It could be your last.",
+        "The question of whether or not we are alone in the universe has been answered.",
+        "Don't make plans for August.",
+        "The Day We Fight Back.",
+        "WARNING! Your next stop my not be there. [poster on underground trains]",
+        "July 2nd, they arrive, July 3rd, they attack, July 4th is when the real fireworks begin.",
+        "We've always believed we weren't alone. On July 4th, we'll wish we were."
+      ]
+    },
+    {
+      "name": "Shrek the Third",
+      "gross_revenue": {
+        "amount": 798958162,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 160000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Family",
+        "Animation",
+        "Children's Fantasy",
+        "Children's/Family",
+        "Fantasy Comedy",
+        "Comedy"
+      ],
+      "directed_by": [
+        "Chris Miller",
+        "Raman Hui"
+      ],
+      "starring": [
+        {
+          "actor": "Mike Myers"
+        },
+        {
+          "actor": "Cameron Diaz"
+        },
+        {
+          "actor": "Antonio Banderas"
+        },
+        {
+          "actor": "Julie Andrews"
+        },
+        {
+          "actor": "John Cleese"
+        },
+        {
+          "actor": "Rupert Everett"
+        },
+        {
+          "actor": "Justin Timberlake"
+        },
+        {
+          "actor": "Regis Philbin"
+        },
+        {
+          "actor": "Seth Rogen"
+        },
+        {
+          "actor": "Eric Idle"
+        }
+      ],
+      "tagline": [
+        "Who's ready for Thirds?"
+      ]
+    },
+    {
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "gross_revenue": {
+        "amount": 796688549,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 130000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Family",
+        "Adventure Film",
+        "Mystery",
+        "Fiction"
+      ],
+      "directed_by": [
+        "Alfonso Cuarón"
+      ],
+      "starring": [
+        {
+          "actor": "Daniel Radcliffe"
+        },
+        {
+          "actor": "Rupert Grint"
+        },
+        {
+          "actor": "Emma Watson"
+        },
+        {
+          "actor": "Emma Thompson"
+        },
+        {
+          "actor": "Michael Gambon"
+        },
+        {
+          "actor": "Timothy Spall"
+        },
+        {
+          "actor": "Gary Oldman"
+        },
+        {
+          "actor": "Robbie Coltrane"
+        },
+        {
+          "actor": "Alan Rickman"
+        },
+        {
+          "actor": "Jamie Waylett"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "gross_revenue": {
+        "amount": 786636033,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 185000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Family",
+        "Fantasy",
+        "Action Film",
+        "Adventure Film",
+        "Thriller",
+        "Adventure Comedy",
+        "Costume Adventure"
+      ],
+      "directed_by": [
+        "Steven Spielberg"
+      ],
+      "starring": [
+        {
+          "actor": "Harrison Ford"
+        },
+        {
+          "actor": "Jim Broadbent"
+        },
+        {
+          "actor": "Ray Winstone"
+        },
+        {
+          "actor": "John Hurt"
+        },
+        {
+          "actor": "Dimitri Diatchenko"
+        },
+        {
+          "actor": "Shia LaBeouf"
+        },
+        {
+          "actor": "Karen Allen"
+        },
+        {
+          "actor": "Cate Blanchett"
+        },
+        {
+          "actor": "Igor Jijikine"
+        },
+        {
+          "actor": "Alan Dale"
+        }
+      ],
+      "tagline": [
+        "In May, the adventure continues."
+      ]
+    },
+    {
+      "name": "Spider-Man 2",
+      "gross_revenue": {
+        "amount": 783766341,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 200000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Superhero movie",
+        "Adventure Film"
+      ],
+      "directed_by": [
+        "Sam Raimi"
+      ],
+      "starring": [
+        {
+          "actor": "Tobey Maguire"
+        },
+        {
+          "actor": "Kirsten Dunst"
+        },
+        {
+          "actor": "James Franco"
+        },
+        {
+          "actor": "Alfred Molina"
+        },
+        {
+          "actor": "Rosemary Harris"
+        },
+        {
+          "actor": "J.K. Simmons"
+        },
+        {
+          "actor": "Donna Murphy"
+        },
+        {
+          "actor": "Daniel Gillies"
+        },
+        {
+          "actor": "Dylan Baker"
+        },
+        {
+          "actor": "Bill Nunn"
+        }
+      ],
+      "tagline": [
+        "Sacrifice. Destiny. Choice."
+      ]
+    },
+    {
+      "name": "2012",
+      "gross_revenue": {
+        "amount": 769304749,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 200000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Disaster Film",
+        "Action Film",
+        "Thriller",
+        "Adventure Film",
+        "Drama"
+      ],
+      "directed_by": [
+        "Roland Emmerich"
+      ],
+      "starring": [
+        {
+          "actor": "John Cusack"
+        },
+        {
+          "actor": "Danny Glover"
+        },
+        {
+          "actor": "Thandie Newton"
+        },
+        {
+          "actor": "Oliver Platt"
+        },
+        {
+          "actor": "Amanda Peet"
+        },
+        {
+          "actor": "Chiwetel Ejiofor"
+        },
+        {
+          "actor": "Woody Harrelson"
+        },
+        {
+          "actor": "Thomas McCarthy"
+        },
+        {
+          "actor": "George Segal"
+        },
+        {
+          "actor": "Morgan Lily"
+        }
+      ],
+      "tagline": [
+        "Find out the truth...if you dare.",
+        "Who will be left behind?",
+        "Mankind's earliest civilization warned us this day would come...",
+        "First, the Mayan calendar predicted it...Now, science has confirmed it...but we never imagined it could really happen.",
+        "We Were Warned.",
+        "The end is just the beginning."
+      ]
+    },
+    {
+      "name": "The Da Vinci Code",
+      "gross_revenue": {
+        "amount": 758239851,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 125000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Thriller",
+        "Mystery",
+        "Crime Thriller"
+      ],
+      "directed_by": [
+        "Ron Howard"
+      ],
+      "starring": [
+        {
+          "actor": "Tom Hanks"
+        },
+        {
+          "actor": "Audrey Tautou"
+        },
+        {
+          "actor": "Ian McKellen"
+        },
+        {
+          "actor": "Paul Bettany"
+        },
+        {
+          "actor": "Jean Reno"
+        },
+        {
+          "actor": "Alfred Molina"
+        },
+        {
+          "actor": "Jürgen Prochnow"
+        },
+        {
+          "actor": "Hugh Mitchell"
+        },
+        {
+          "actor": "Jean-Pierre Marielle"
+        },
+        {
+          "actor": "Tina Maskell"
+        }
+      ],
+      "tagline": [
+        "Seek the truth, seek the codes.",
+        "Break The Codes",
+        "So Dark The Con Of Man",
+        "Seek The Truth",
+        "Uncover The Secret"
+      ]
+    },
+    {
+      "name": "Shrek Forever After",
+      "gross_revenue": {
+        "amount": 752600867,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 135000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Fantasy",
+        "Family",
+        "Adventure Film",
+        "Animation",
+        "Comedy"
+      ],
+      "directed_by": [
+        "Mike Mitchell"
+      ],
+      "starring": [
+        {
+          "actor": "Cameron Diaz"
+        },
+        {
+          "actor": "Antonio Banderas"
+        },
+        {
+          "actor": "Julie Andrews"
+        },
+        {
+          "actor": "Mike Myers"
+        },
+        {
+          "actor": "Larry King"
+        },
+        {
+          "actor": "Chris Miller"
+        },
+        {
+          "actor": "Walt Dohrn"
+        },
+        {
+          "actor": "Kristen Schaal"
+        },
+        {
+          "actor": "Christopher Knights"
+        },
+        {
+          "actor": "Cody Cameron"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "gross_revenue": {
+        "amount": 745011272,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 180000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Family",
+        "Fantasy",
+        "Christian film",
+        "Fantasy Adventure",
+        "Children's Fantasy",
+        "Children's/Family"
+      ],
+      "directed_by": [
+        "Andrew Adamson"
+      ],
+      "starring": [
+        {
+          "actor": "James McAvoy"
+        },
+        {
+          "actor": "Tilda Swinton"
+        },
+        {
+          "actor": "Liam Neeson"
+        },
+        {
+          "actor": "Skandar Keynes"
+        },
+        {
+          "actor": "Georgie Henley"
+        },
+        {
+          "actor": "William Moseley"
+        },
+        {
+          "actor": "Anna Popplewell"
+        },
+        {
+          "actor": "Shane Rangi"
+        },
+        {
+          "actor": "Michael Madsen"
+        },
+        {
+          "actor": "James Cosmo"
+        }
+      ],
+      "tagline": [
+        "Some journeys take us far from home. Some adventures lead us to our destiny."
+      ]
+    },
+    {
+      "name": "The Matrix Reloaded",
+      "gross_revenue": {
+        "amount": 742128461,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 150000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Science Fiction",
+        "Action Film",
+        "Thriller",
+        "Adventure Film",
+        "Action/Adventure"
+      ],
+      "directed_by": [
+        "Lana Wachowski",
+        "Andy Wachowski"
+      ],
+      "starring": [
+        {
+          "actor": "Keanu Reeves"
+        },
+        {
+          "actor": "Laurence Fishburne"
+        },
+        {
+          "actor": "Carrie-Anne Moss"
+        },
+        {
+          "actor": "Hugo Weaving"
+        },
+        {
+          "actor": "Monica Bellucci"
+        },
+        {
+          "actor": "Daniel Bernhardt"
+        },
+        {
+          "actor": "Harold Perrineau"
+        },
+        {
+          "actor": "Lambert Wilson"
+        },
+        {
+          "actor": "Collin Chou"
+        },
+        {
+          "actor": "Randall Duk Kim"
+        }
+      ],
+      "tagline": [
+        "How far down does the rabbit hole go?"
+      ]
+    },
+    {
+      "name": "Up",
+      "gross_revenue": {
+        "amount": 731342744,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 175000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Adventure Film",
+        "Family",
+        "Animation",
+        "Fantasy",
+        "Comedy",
+        "Comedy-drama",
+        "Drama"
+      ],
+      "directed_by": [
+        "Pete Docter"
+      ],
+      "starring": [
+        {
+          "actor": "John Ratzenberger"
+        },
+        {
+          "actor": "Christopher Plummer"
+        },
+        {
+          "actor": "Ed Asner"
+        },
+        {
+          "actor": "Delroy Lindo"
+        },
+        {
+          "actor": "Jordan Nagai"
+        },
+        {
+          "actor": "Paul Eiding"
+        },
+        {
+          "actor": "Bob Peterson"
+        },
+        {
+          "actor": "Jerome Ranft"
+        },
+        {
+          "actor": "David Kaye"
+        },
+        {
+          "actor": "Danny Mann"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "The Twilight Saga: New Moon",
+      "gross_revenue": {
+        "amount": 709827462,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 50000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Fantasy",
+        "Romance Film",
+        "Adventure Film",
+        "Drama"
+      ],
+      "directed_by": [
+        "Chris Weitz"
+      ],
+      "starring": [
+        {
+          "actor": "Robert Pattinson"
+        },
+        {
+          "actor": "Taylor Lautner"
+        },
+        {
+          "actor": "Kristen Stewart"
+        },
+        {
+          "actor": "Kellan Lutz"
+        },
+        {
+          "actor": "Peter Facinelli"
+        },
+        {
+          "actor": "Elizabeth Reaser"
+        },
+        {
+          "actor": "Nikki Reed"
+        },
+        {
+          "actor": "Billy Burke"
+        },
+        {
+          "actor": "Cameron Bright"
+        },
+        {
+          "actor": "Chaske Spencer"
+        }
+      ],
+      "tagline": [
+        "The Next Chapter Begins"
+      ]
+    },
+    {
+      "name": "Transformers",
+      "gross_revenue": {
+        "amount": 709709780,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 147000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Science Fiction",
+        "Thriller",
+        "Adventure Film"
+      ],
+      "directed_by": [
+        "Michael Bay"
+      ],
+      "starring": [
+        {
+          "actor": "Julie White"
+        },
+        {
+          "actor": "Mark Ryan"
+        },
+        {
+          "actor": "Shia LaBeouf"
+        },
+        {
+          "actor": "Josh Duhamel"
+        },
+        {
+          "actor": "Megan Fox"
+        },
+        {
+          "actor": "Bernie Mac"
+        },
+        {
+          "actor": "Tyrese Gibson"
+        },
+        {
+          "actor": "Rachael Taylor"
+        },
+        {
+          "actor": "Amaury Nolasco"
+        },
+        {
+          "actor": "Kevin Dunn"
+        }
+      ],
+      "tagline": [
+        "Destroy",
+        "In 2003, the Beagle 2 Mars rover was launched. We were told it crashed. Its final transmission was classified top secret. It was the only warning we would ever get.",
+        "Protect",
+        "Their war. Our world.",
+        "This July, our world will be transformed."
+      ]
+    },
+    {
+      "name": "The Twilight Saga: Breaking Dawn - Part 1",
+      "gross_revenue": {
+        "amount": 705058657,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 110000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Fantasy",
+        "Adventure Film",
+        "Romantic fantasy",
+        "Teen film",
+        "Drama"
+      ],
+      "directed_by": [
+        "Bill Condon"
+      ],
+      "starring": [
+        {
+          "actor": "Robert Pattinson"
+        },
+        {
+          "actor": "Jackson Rathbone"
+        },
+        {
+          "actor": "Ashley Greene"
+        },
+        {
+          "actor": "Nikki Reed"
+        },
+        {
+          "actor": "Kellan Lutz"
+        },
+        {
+          "actor": "Kristen Stewart"
+        },
+        {
+          "actor": "Billy Burke"
+        },
+        {
+          "actor": "Anna Kendrick"
+        },
+        {
+          "actor": "Peter Facinelli"
+        },
+        {
+          "actor": "Taylor Lautner"
+        }
+      ],
+      "tagline": [
+        "Forever is just the beginning"
+      ]
+    },
+    {
+      "name": "Eclipse",
+      "gross_revenue": {
+        "amount": 698491347,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 68000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Romance Film",
+        "Adventure Film",
+        "Drama"
+      ],
+      "directed_by": [
+        "David Slade"
+      ],
+      "starring": [
+        {
+          "actor": "Robert Pattinson"
+        },
+        {
+          "actor": "Taylor Lautner"
+        },
+        {
+          "actor": "Kristen Stewart"
+        },
+        {
+          "actor": "Jackson Rathbone"
+        },
+        {
+          "actor": "Ashley Greene"
+        },
+        {
+          "actor": "Nikki Reed"
+        },
+        {
+          "actor": "Kellan Lutz"
+        },
+        {
+          "actor": "Billy Burke"
+        },
+        {
+          "actor": "Jack Huston"
+        },
+        {
+          "actor": "Booboo Stewart"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Mission: Impossible – Ghost Protocol",
+      "gross_revenue": {
+        "amount": 693054071,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 140000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Action Film",
+        "Thriller"
+      ],
+      "directed_by": [
+        "Brad Bird"
+      ],
+      "starring": [
+        {
+          "actor": "Ving Rhames"
+        },
+        {
+          "actor": "Simon Pegg"
+        },
+        {
+          "actor": "Michael Nyqvist"
+        },
+        {
+          "actor": "Anil Kapoor"
+        },
+        {
+          "actor": "Léa Seydoux"
+        },
+        {
+          "actor": "Josh Holloway"
+        },
+        {
+          "actor": "Miraj Grbic"
+        },
+        {
+          "actor": "Vladimir Mashkov"
+        },
+        {
+          "actor": "Paula Patton"
+        },
+        {
+          "actor": "Tom Cruise"
+        }
+      ],
+      "tagline": []
+    },
+    {
+      "name": "Forrest Gump",
+      "gross_revenue": {
+        "amount": 677387716,
+        "currency": "United States Dollar"
+      },
+      "estimated_budget": {
+        "amount": 55000000,
+        "currency": "United States Dollar"
+      },
+      "type": "/film/film",
+      "genre": [
+        "Romance Film",
+        "Epic film",
+        "Comedy",
+        "Romantic comedy",
+        "Comedy-drama",
+        "Drama"
+      ],
+      "directed_by": [
+        "Robert Zemeckis"
+      ],
+      "starring": [
+        {
+          "actor": "Tom Hanks"
+        },
+        {
+          "actor": "Robin Wright"
+        },
+        {
+          "actor": "Gary Sinise"
+        },
+        {
+          "actor": "Mykelti Williamson"
+        },
+        {
+          "actor": "Sally Field"
+        },
+        {
+          "actor": "Rebecca Williams"
+        },
+        {
+          "actor": "Michael Connor Humphreys"
+        },
+        {
+          "actor": "Harold Herthum"
+        },
+        {
+          "actor": "Hanna R. Hall"
+        },
+        {
+          "actor": "Geoffrey Blake"
+        }
+      ],
+      "tagline": [
+        "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+        "Life is like a box of chocolates...you never know what you're gonna get."
+      ]
+    }
+  
