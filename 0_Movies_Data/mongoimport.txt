@@ -1,0 +1,1 @@
+mongoimport --db DB_NAME --collection COLL_NAME movies.json --jsonArray --drop
