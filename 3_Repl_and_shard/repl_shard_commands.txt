@@ -1,0 +1,35 @@
+1. Uruchomić wszystkie elementy replicaset z nazwą repliki
+2. Z poziomu jednego z wezłów zainicjalizować replicaset
+3. Dodać wszystkie pozostałe elementy replicasetu
+
+rs.initiate() - inicjalizacja replicasetu,,
+rs.add(...) - dodanie nowego elementu do replica setu
+rs.status() - status replica setów
+rs.conf() - wyświetlenie konfiguracji replica setu
+rs.reconfig(conf) - rekonfiguracja setu
+rs.addArb - dodawanie nowego arbitra
+
+--replSet - nazwa replica setu
+--oplogSize - rozmiar oplogu [MB]
+
+cfg.members[0].slaveDelay = 3600
+
+1. Postawienie 3 config serverów:
+Config server:
+--configsvr - flaga dla config servera
+domyślny port 27019
+
+2. Postawienie przynajmniej jednego mongosa
+Mongo router:
+mogos --configdb <ip config serverów>
+
+3. Dodanie sharda
+sh.addShard( "<nazwa_sharda>/<ip>,<ip>")
+
+4. sh.enableSharding ( "<nazwa_bazy">)
+5. Dodanie indeksu na kolekcje, którą chcemy shardować
+6. sh.shardCollection ("nazwa_bazy.nazwa_kolekcji",{ "index" : 1})
+ 
+ db.stats()
+ db.printShardingStatus()
+
