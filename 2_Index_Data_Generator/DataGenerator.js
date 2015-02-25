@@ -1,18 +1,21 @@
-for(i=0; i<1000000; i++)
+var counter = 0
+var bulkInsertCount = 50000
+var documentsToAdd = []
+
+for(i=0; i<=1000000; i++)
 {
     var document = { 
-        a: NumberInt(Math.floor(Math.random() * 3) +1),
-        b: NumberInt(Math.floor(Math.random() * 3) +1),
-        c: NumberInt(Math.floor(Math.random() * 3) +1)
+        a: NumberInt(Math.floor(Math.random() * 5) +1),
+        b: NumberInt(Math.floor(Math.random() * 5) +1),
+        c: NumberInt(Math.floor(Math.random() * 5) +1)
     }
     documentsToAdd.push(document);
-    //var a = documentsToAdd.len % 10000;
     
     if(i%bulkInsertCount == 0)
     {
         counter+=bulkInsertCount;
-        db.users.insert(documentsToAdd)
-        documentsToAdd.length = 0;
+        db.indexTest.insert(documentsToAdd)
+        documentsToAdd = []
     }
 }
 print("Added "+ counter + " documents")
