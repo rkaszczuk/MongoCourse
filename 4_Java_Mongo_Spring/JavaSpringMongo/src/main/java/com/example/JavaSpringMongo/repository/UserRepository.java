@@ -11,5 +11,6 @@ import org.springframework.stereotype.Repository;
 //public interface UserRepository  extends Repository<User, String> {
 @Repository
 public interface UserRepository  extends CrudRepository<User, String> {
+    //db.coll.findOne({name: name})
     public User findByName(String name);
 }

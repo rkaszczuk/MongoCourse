@@ -13,5 +13,5 @@ public interface ActorRepository extends Repository<Actor, String>
     public Actor findByName(String name);
     public List<Actor> findTop10ByName();
     //public List<Actor> findByMoviesName(String movieName);
-    public List<Actor> findByMovies_MovieName(String movieName);
+    //public List<Actor> findByMovies_MovieName(String movieName);
 }

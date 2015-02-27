@@ -18,13 +18,13 @@ import static org.springframework.data.mongodb.core.aggregation.Aggregation.newA
 public class Main {
     public static final String MONGO_IP = "127.0.0.1";
     public static final int MONGO_PORT = 27017;
-    public static final String MONGO_DBNAME = "Movies";
+    public static final String MONGO_DBNAME = "DBTEST";
 
 
 
     public static void main(String[] args) throws Exception{
 
-        MongoClient mongoClient = new MongoClient(MONGO_IP, MONGO_PORT);
+        /*MongoClient mongoClient = new MongoClient(MONGO_IP, MONGO_PORT);
         MongoOperations mongoOpp = new MongoTemplate(mongoClient, MONGO_DBNAME);
 
         //insert
@@ -62,7 +62,7 @@ public class Main {
 
         Aggregation agg = newAggregation(group("name").count().as("count"));
         AggregationResults<UserAggregationResult> aggResult =  mongoOpp.aggregate(agg, User.class, UserAggregationResult.class);
-        System.out.println(aggResult.getMappedResults());
+        System.out.println(aggResult.getMappedResults());*/
 
 
         ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("spring.xml");
@@ -71,7 +71,7 @@ public class Main {
         SpringMongoMain springMongoMain = ctx.getBean("springMongoMain", SpringMongoMain.class);
         springMongoMain.run();
 
-        mongoOpp.dropCollection(User.class);
+        //mongoOpp.dropCollection(User.class);
         ctx.close();
     }
 

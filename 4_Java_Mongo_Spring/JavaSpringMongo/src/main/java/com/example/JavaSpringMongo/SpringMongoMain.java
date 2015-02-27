@@ -1,8 +1,10 @@
 package com.example.JavaSpringMongo;
 
-import com.example.JavaSpringMongo.models.User;
-import com.example.JavaSpringMongo.repository.UserRepository;
+import com.example.JavaSpringMongo.models.Movie;
+import com.example.JavaSpringMongo.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+
+import java.util.List;
 
 
 /**
@@ -10,10 +12,24 @@ import org.springframework.beans.factory.annotation.Autowired;
  */
 public class SpringMongoMain {
     @Autowired
-    private UserRepository userRepository;
+    private MovieRepository movieRepository;
 
     public void run(){
-        userRepository.save(new User("BenSpring", 42));
-        System.out.println(userRepository.findByName("BenSpring"));
+        Movie movie = movieRepository.findByName("Harry Potter and the Philosopher's Stone");
+        System.out.println(movie);
+        List<Movie> myMovies = movieRepository.findByStarringActor("Emma Watson");
+        System.out.println("myMovies");
+        for (Movie m: myMovies) {
+            System.out.println("\t" + m);
+        }
+
+        List<Movie> expensiveMovies = movieRepository.findTop3ByEstimatedBudgetAmountGreaterThan(1000000);
+        System.out.println("expensiveMovies:");
+        for (Movie m: expensiveMovies) {
+            System.out.println("\t" + m);
+        }
+
+        Movie myMovieByName = movieRepository.getByName("Harry Potter and the Philosopher's Stone");
+        System.out.println(myMovieByName);
     }
 }

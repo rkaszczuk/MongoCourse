@@ -4,11 +4,19 @@ package com.example.JavaSpringMongo.models;
  * Created by Rafał on 2015-02-26.
  */
 public class GrossRevenue {
-    public Integer getAmount() {
+    public Long getAmount() {
         return amount;
     }
 
-    public void setAmount(Integer amount) {
+    @Override
+    public String toString() {
+        return "GrossRevenue{" +
+                "amount=" + amount +
+                ", currency='" + currency + '\'' +
+                '}';
+    }
+
+    public void setAmount(Long amount) {
         this.amount = amount;
     }
 
@@ -20,7 +28,7 @@ public class GrossRevenue {
         this.currency = currency;
     }
 
-    private Integer amount;
+    private Long amount;
     private String currency;
 
 }

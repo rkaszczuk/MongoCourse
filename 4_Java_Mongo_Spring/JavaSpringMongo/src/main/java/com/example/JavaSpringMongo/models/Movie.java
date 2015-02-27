@@ -15,9 +15,13 @@ public class Movie {
     @Id
     private String id;
 
-    @Field("name")
-    private String movieName;
+    //@Field("name")
+    private String name;
+
+    @Field("gross_revenue")
     private GrossRevenue grossRevenue;
+
+    @Field("estimated_budget")
     private EstimatedBudget estimatedBudget;
     private String type;
     private List<String> genre = new ArrayList<String>();
@@ -89,11 +93,26 @@ public class Movie {
         this.tagline = tagline;
     }
 
-    public String getMovieName() {
-        return movieName;
+    public String getName() {
+        return name;
     }
 
-    public void setMovieName(String movieName) {
-        this.movieName = movieName;
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Movie{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", grossRevenue=" + grossRevenue +
+                ", estimatedBudget=" + estimatedBudget +
+                ", type='" + type + '\'' +
+                ", genre=" + genre +
+                ", directedBy=" + directedBy +
+                ", starring=" + starring +
+                ", tagline=" + tagline +
+                '}';
     }
 }
