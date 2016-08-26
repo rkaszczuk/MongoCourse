@@ -14,7 +14,7 @@ public class MyMovieRepositoryImpl implements MyMovieRepository {
     @Autowired
     private MongoTemplate mongoTemplate;
 
-    @Override
+
     public Movie getByName(String name) {
         return mongoTemplate.findOne(new Query(Criteria.where("name").is(name)), Movie.class);
     }

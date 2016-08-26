@@ -23,8 +23,8 @@ public class Main {
 
 
     public static void main(String[] args) throws Exception{
-
-        /*MongoClient mongoClient = new MongoClient(MONGO_IP, MONGO_PORT);
+/*
+        MongoClient mongoClient = new MongoClient(MONGO_IP, MONGO_PORT);
         MongoOperations mongoOpp = new MongoTemplate(mongoClient, MONGO_DBNAME);
 
         //insert
@@ -52,7 +52,6 @@ public class Main {
 
         writeResult = mongoOpp.updateFirst(new Query(Criteria.where("name").is("Anne2")), new Update().set("age", 32), User.class);
         System.out.println(writeResult.isUpdateOfExisting());
-
         //update - inc
         mongoOpp.updateMulti(new Query(), new Update().inc("age", -20), User.class);
         System.out.println(mongoOpp.findAll(User.class));
@@ -60,7 +59,7 @@ public class Main {
         //aggregate
         mongoOpp.insert(new User("Anne", 30));
 
-        Aggregation agg = newAggregation(group("name").count().as("count"));
+        Aggregation agg = new Aggregation(group("name").count().as("count"));
         AggregationResults<UserAggregationResult> aggResult =  mongoOpp.aggregate(agg, User.class, UserAggregationResult.class);
         System.out.println(aggResult.getMappedResults());*/
 
@@ -68,8 +67,11 @@ public class Main {
         ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("spring.xml");
 
 
-        SpringMongoMain springMongoMain = ctx.getBean("springMongoMain", SpringMongoMain.class);
-        springMongoMain.run();
+        /*SpringMongoMain springMongoMain = ctx.getBean("springMongoMain", SpringMongoMain.class);
+        springMongoMain.run();*/
+
+        GridFSMain gridFSMain = ctx.getBean("gridFSMain", GridFSMain.class);
+        gridFSMain.run();
 
         //mongoOpp.dropCollection(User.class);
         ctx.close();

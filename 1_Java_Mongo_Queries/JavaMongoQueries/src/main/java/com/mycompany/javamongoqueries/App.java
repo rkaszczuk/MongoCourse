@@ -26,9 +26,12 @@ public class App
         document.append("embeddedArray", new BasicDBList().addAll(Arrays.asList("arrayValue1", "arrayValue2")));
         
         mongoCollection.insert(document);
-        
-        mongoCollection.findOne(new BasicDBObject("key", "value"));
+
+
+        DBObject result = mongoCollection.findOne(new BasicDBObject("key", "value")); //{"key":"value"}
+        System.out.println(result);
         DBCursor cursor = mongoCollection.find(new BasicDBObject("key", new BasicDBObject("$gt", "value")));
+        //{"key" : {"$gt": "value"}}
         
         while(cursor.hasNext())
         {

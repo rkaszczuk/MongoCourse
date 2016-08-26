@@ -23,15 +23,27 @@
     </mongo:mongo>-->
 
     <mongo:mongo id="mongo" host="localhost" port="27017" />
-	
+
+
+    <mongo:db-factory id="mongoDbFactory" dbname="Movies" mongo-ref="mongo" />
+
+    <bean id="gridFsTemplate" class="org.springframework.data.mongodb.gridfs.GridFsTemplate">
+        <constructor-arg ref="mongoDbFactory" />
+        <constructor-arg ref="mongoConverter" />
+    </bean>
+
+    <mongo:mapping-converter id="mongoConverter" />
+
     <bean id="mongoTemplate" class="org.springframework.data.mongodb.core.MongoTemplate">
-        <constructor-arg ref="mongo" />
-        <constructor-arg name="databaseName" value="Movies" />
+        <constructor-arg ref="mongoDbFactory"/>
+        <constructor-arg ref="mongoConverter" />
     </bean>
 
 
-    <mongo:repositories base-package="com.example.JavaSpringMongo.repository"/>
+    <mongo:repositories base-package="com.example.JavaSpringMongo.repository" mongo-template-ref="mongoTemplate"/>
 
     <bean id="springMongoMain" class="com.example.JavaSpringMongo.SpringMongoMain">
+    </bean>
+    <bean id="gridFSMain" class="com.example.JavaSpringMongo.GridFSMain">
     </bean>
 </beans>
