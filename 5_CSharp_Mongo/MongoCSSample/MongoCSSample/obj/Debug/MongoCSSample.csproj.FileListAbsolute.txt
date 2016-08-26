@@ -1,0 +1,13 @@
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoCSSample.exe.config
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\obj\Debug\MongoCSSample.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoCSSample.exe
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoCSSample.pdb
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\Autofac.dll
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoDB.Bson.dll
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoDB.Driver.Core.dll
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoDB.Driver.dll
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\Autofac.xml
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoDB.Bson.xml
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\bin\Debug\MongoDB.Driver.xml
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\obj\Debug\MongoCSSample.exe
+D:\Visual Studio 2015\Projects\MongoCSSample\MongoCSSample\obj\Debug\MongoCSSample.pdb
