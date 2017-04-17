@@ -12,3 +12,5 @@
 hs_err_pid*
 /1_Java_Mongo_Queries/JavaMongoQueries/nbproject/private/
 /1_Java_Mongo_Queries/JavaMongoQueries/target/
+
+.idea/
