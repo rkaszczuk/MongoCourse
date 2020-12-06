@@ -1,1 +1,4 @@
-mongoimport --db DB_NAME --collection COLL_NAME movies.json --jsonArray --drop
+//JSON
+mongoimport --db <db_name> --collection <coll_name> --jsonArray --drop movies.json
+//CSV
+mongoimport --db <db_name> --collection <coll_name> --type csv --drop --headerline productionCompanies.csv
