@@ -1,1 +1,5 @@
-[Instalacja MongoDB 5](download_mongo5.md)
+[Instalacja serwera MongoDB 5](download_mongo5.md)
+
+[Instalacja serwera MongoDB 6](download_mongo6.md)
+
+[Instalacja klienta Mongosh](download_mongosh.md)
