@@ -1,4 +1,4 @@
-[Instalacja serwera MongoDB PW (4.4)](download_mongo5.md)
+[Instalacja serwera MongoDB PW (4.4)](download_mongo_pw.md)
 
 [Instalacja serwera MongoDB 5](download_mongo5.md)
 
