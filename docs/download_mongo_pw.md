@@ -88,7 +88,7 @@ mongod --dbpath db
 
 - #### Linux / Windows (PowerShell)
 ```
-.\mongod --dbpath db
+./mongod --dbpath db
 ```
 
 
