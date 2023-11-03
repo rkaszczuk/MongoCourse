@@ -26,10 +26,12 @@ https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-x86_64-100.7.0.
 
 - #### Docker
 Powinny być w obrazie
-
+```
 docker exec <nazwa_instancji> sh -c 'exec mongoimport --help'
+```
 
-### Instrukcja uruchomienia
+------------------------------------
+### Instrukcja uruchomienia:
 
 1. Wypakowujemy archiwum
 2. Otwieramy nową konsole / terminal
@@ -49,7 +51,7 @@ Przykładowe wykonanie:
 ![](https://i.imgur.com/Z6G0AzI.png)
 
 ------------------------------------
-## Pobieranie pliku z danymi:
+### Pobieranie pliku z danymi:
 
 1. Należy pobrać plik:
 Windows:
