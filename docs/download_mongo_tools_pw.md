@@ -45,7 +45,7 @@ mongoimport --help
 ```
 Windows (nowszy / powershell) / Linux:
 ```
-.\mongoimport --help
+./mongoimport --help
 ```
 Przykładowe wykonanie:
 ![](https://i.imgur.com/Z6G0AzI.png)
