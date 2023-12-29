@@ -6,6 +6,7 @@ Na stronie https://www.mongodb.com/try/download/community
 - Packages -> zip lub tgz
 
 Przykładowy wybór:
+
 ![](https://i.imgur.com/c7Z20fF.png)
 
 Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :slightly_smiling_face: )
@@ -21,6 +22,7 @@ Na stronie https://www.mongodb.com/try/download/shell
 - Packages -> zip lub tgz
 
 Przykładowy wybór:
+
 ![](https://i.imgur.com/LRjdFSx.png)
 
 Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :slightly_smiling_face: )
@@ -36,6 +38,7 @@ Na stronie https://www.mongodb.com/try/download/database-tools
 - Packages -> zip lub tgz
 
 Przykładowy wybór:
+
 ![](https://i.imgur.com/yBtyYup.png)
 
 Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :slightly_smiling_face: )
