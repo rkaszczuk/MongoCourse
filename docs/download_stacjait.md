@@ -1,6 +1,7 @@
-## MongoDB 6.0 - Stacja IT
+<h1 align="center"> MongoDB 6.0 - Stacja IT </h1>
 
-## Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
+
+### Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
 
 Na stronie https://www.mongodb.com/try/download/community 
 - wybieramy wersję 6.0.X
@@ -16,7 +17,8 @@ Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście z
 (Proces uruchomienia serwera zostanie omówiony na warsztatach)
 
 
-##  Konsola klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji):
+---
+###  Konsola klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/shell
 - wybieramy wersję 2.1.X
@@ -32,7 +34,8 @@ Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście z
 (Uruchomienie konsoli klienta i proces połączenia z serwerem zostanie omówiony na warsztatach) 
 
 
-##  Zestaw narzędzi bazodanowych MongoDB Database Tools 100.9.X (portable - nie wymaga instalacji):
+---
+###  Zestaw narzędzi bazodanowych MongoDB Database Tools 100.9.X (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/database-tools
 - wybieramy wersję 100.9.X 
@@ -47,7 +50,9 @@ Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście z
 
 (Obsługa narzędzi bazodanowych zostanie omówiona na warsztatach) 
 
-##  (Opcjonalne) GUI do obsługi MongoDB - NoSQLBooster (wymagana instalacja)
+
+---
+###  (Opcjonalne) GUI do obsługi MongoDB - NoSQLBooster (wymagana instalacja)
 Cała cześć warsztatowa możliwa jest do realizacji w środowisku konsolowym, jednak ze względu na większą czytelność przeglądania danych zachęcam do wykorzystania środowiska graficznego i GUI.
 
 - Ze strony: https://nosqlbooster.com/downloads pobieramy instalator i go uruchamiamy.
