@@ -29,6 +29,8 @@ Na stronie https://www.mongodb.com/try/download/community
 
 [Pobranie i testowe uruchomienie serwera mongod - Linux ](stacjait_mongod_linux.md)
 
+[Pobranie i testowe uruchomienie serwera mongod - MacOS ](stacjait_mongod_macos.md)
+
 ---
 ###  Konsola klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji):
 
