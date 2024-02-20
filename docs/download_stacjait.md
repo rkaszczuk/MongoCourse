@@ -10,7 +10,7 @@ Na zielono zaznaczyłem wszystkie oficjalnie wspierane systemy operacyjne.
 ![](https://i.imgur.com/1nCx1Xj.png)
 
 Jeśli twój system jest na szaro, albo nie ma go na liście - wciaż możesz spróbować uruchomić na nim Mongo.
-Czesto pomimo braku oficjalnego wsparcia Mongo będzie na nim działać.
+Czesto pomimo braku oficjalnego wsparcia Mongo będzie na nim działać (np. MacOS 13)
 
 Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będziesz musiał zapewnić sobie dostęp
 do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtaulej maszyny.
