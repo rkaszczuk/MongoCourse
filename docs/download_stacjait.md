@@ -3,7 +3,7 @@
 W ramach warsztatów wykorzystywać będziemy wersję portable MongoDB, która nie wymaga pełnej instalacji a jedynie wypakowania i uruchomienia binariów. Wersja jest w pełni funkcjonalna i pod kątem funkcjonalności nie różni się od wersji instalacyjnej.
 Mongo jest wysoce multiplatformowe - zachowuje się tak samo niezależnie od systemu operacyjnego. Jeśli planujesz w przyszłości hostować MongoDB na serwerze z Linuxem, a wygodniej będzie ci uczestniczyć w warsztatach na komputerze z Windowsem, to nie stanowi to żadnego problemu. Zachowanie MongoDB i jego możliwości będą identyczne niezależnie od użytego systemu operacyjnego.
 
-W ramach cześci warsztatowej będziemy wykorzystywali wersję 6 Mongo. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
+W ramach cześci warsztatowej będziemy wykorzystywali wersję MongoDB 6.X. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
 
 Na zielono zaznaczyłem wszystkie oficjalnie wspierane systemy operacyjne.
 
