@@ -1,10 +1,14 @@
 ## MongoDB 6 - pobranie i uruchomienie serwera - Linux
 
+Instrukcja w formie video:
+
 <p align="center">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HktvaZQANYs" target="_blank">
  <img src="http://img.youtube.com/vi/HktvaZQANYs/maxresdefault.jpg" alt="Watch the video" width="600" height="337" border="10" />
 </a>
 </p>
+
+
 
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
