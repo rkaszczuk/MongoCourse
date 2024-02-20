@@ -31,7 +31,7 @@ tar xvzf mongodb-linux-x86_64-xxxxxx-6.0.13.tgz
 ```
 cd ....mongodb-xxxxxxx-6.0.13\bin
 ```
-### 4. W podkatalogu bin tworzomy katalog na dane
+### 4. W podkatalogu bin tworzymy katalog na dane
 MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe umieścimy go w tym samym katalogu co binaria - żeby mieć do niego łatwy dostęp
 
 ```
