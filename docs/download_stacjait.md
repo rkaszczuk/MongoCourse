@@ -1,6 +1,23 @@
 <h1 align="center"> MongoDB 6.0 - Stacja IT </h1>
 
+W ramach warsztatów wykorzystywać będziemy wersję portable MongoDB, która nie wymaga pełnej instalacji a jedynie wypakowania i uruchomienia binariów. Wersja jest w pełni funkcjonalna i pod kątem funkcjonalności nie różni się od wersji instalacyjnej.
+Mongo jest wysoce multiplatformowe - zachowuje się tak samo niezależnie od systemu operacyjnego. Jeśli planujesz w przyszłości hostować MongoDB na serwerze z Linuxem, a wygodniej będzie ci uczestniczyć w warsztatach na komputerze z Windowsem, to nie stanowi to żadnego problemu. Zachowanie MongoDB i jego możliwości będą identyczne niezależnie od użytego systemu operacyjnego.
 
+W ramach cześci warsztatowej będziemy wykorzystywali wersję 6 Mongo. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
+
+Na zielono zaznaczyłem wszystkie oficjalnie wspierane systemy operacyjne.
+
+![](https://i.imgur.com/1nCx1Xj.png)
+
+Jeśli twój system jest na szaro, albo nie ma go na liście - wciaż możesz spróbować uruchomić na nim Mongo.
+Czesto pomimo braku oficjalnego wsparcia Mongo będzie na nim działać.
+
+Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będziesz musiał zapewnić sobie dostęp
+do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtaulej maszyny.
+
+Istnieje również możliwośc uruchomienia MongoDb w dockerze za pomocą oficjalnego obrazu. Zanim jednak sięgniesz po tą platformę upewnij się że znaszą ja na tyle żeby spomiedzenie wykonać proste konfiguracje jak np. przekierowanie portów.
+
+---
 ### Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
 
 Na stronie https://www.mongodb.com/try/download/community 
@@ -8,14 +25,9 @@ Na stronie https://www.mongodb.com/try/download/community
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
-Przykładowy wybór:
+[Pobranie i testowe uruchomienie serwera mongod - Windows ](stacjait_mongod_windows.md)
 
-![](https://i.imgur.com/c7Z20fF.png)
-
-Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :slightly_smiling_face: )
-
-(Proces uruchomienia serwera zostanie omówiony na warsztatach)
-
+[Pobranie i testowe uruchomienie serwera mongod - Linux ](stacjait_mongod_linux.md)
 
 ---
 ###  Konsola klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji):
