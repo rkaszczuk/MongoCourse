@@ -30,7 +30,7 @@ mongod --dbpath db
 
 - #### Windows (PowerShell)
 ```
-.\mongod --dbpath db
+./mongod --dbpath db
 ```
 
 ### 6. Serwer powinien rozpocząć nasłuch na porcie 27017:
