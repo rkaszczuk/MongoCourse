@@ -33,9 +33,11 @@ Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-6.0.13\bin uruchamiam
 
 #### Uwaga
 Jeśli pierwszy raz używasz Mongo to mo otrzymać komunikat o zablokowaniu procesu przez Apple (niezidentyfikowany developer) 
+
 ![](https://i.imgur.com/ChQRHo0.png)
 
 W takim przypadku musisz zezwolić na działanie procesu mongod z poziomu sekcji Privacy & Security w ustawieniach:
+
 ![](https://i.imgur.com/ULmHv5b.png)
 
 Po odblokowaniu spróbuj ponownie uruchomić serwer:
