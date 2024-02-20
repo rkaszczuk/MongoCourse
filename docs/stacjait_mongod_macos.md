@@ -28,7 +28,7 @@ mkdir db
 Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-6.0.13\bin uruchamiamy program mongod.
 
 ```
-.\mongod --dbpath db
+./mongod --dbpath db
 ```
 
 #### Uwaga
@@ -42,7 +42,7 @@ W takim przypadku musisz zezwolić na działanie procesu mongod z poziomu sekcji
 
 Po odblokowaniu spróbuj ponownie uruchomić serwer:
 ```
-.\mongod --dbpath db
+./mongod --dbpath db
 ```
 
 ### 6. Serwer powinien rozpocząć nasłuch na porcie 27017:
