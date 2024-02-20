@@ -16,13 +16,13 @@ https://www.mongodb.com/try/download/community
 ![](https://i.imgur.com/nxsCgly.png)
 
 ### 2. Wypakowujemy pobrany plik
-W tym celu możesz użyć dowolnego narzedzia (np. wbudowane w Windows "Wyodrębnij pliki" lub 7zip)
+W tym celu możesz użyć dowolnego narzędzia (np. wbudowane w Windows "Wyodrębnij pliki" lub 7zip)
 
 ### 3. Otwieramy konsolę i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
 cd ....mongodb-xxxxxxx-6.0.13\bin
 ```
-### 4. W podkatalogu bin tworzomy katalog na dane
+### 4. W podkatalogu bin tworzymy katalog na dane
 MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe umieścimy go w tym samym katalogu co binaria - żeby mieć do niego łatwy dostęp
 
 ```
@@ -49,7 +49,7 @@ Sprawdzamy czy serwer rozpoczął nasłuch. Jeśli wszystko się powiodło zauwa
 ![](https://i.imgur.com/DgypFgd.png)
 
 ### 7. Wyłączenie serwera
-Jeśli wszystko zadziałało poprawnie możemy wyłączyć serwer. W tym celu należy użyć kombinacji ctrl+c. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer oraz wrócimy do konsoli
+Jeśli chcemy zakończyć pracę z MongoDB możemy użyć kombinacji ctrl+c w celu jego wyłączenia. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer i wrócimy do konsoli
 
 
 
