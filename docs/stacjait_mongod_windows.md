@@ -6,7 +6,7 @@ https://www.mongodb.com/try/download/community
 ![](https://i.imgur.com/nxsCgly.png)
 
 ### 2. Wypakowujemy pobrany plik
-W tym celu możesz urzyć dowolnego narzedzia (np. wbudowane w Windows "Wyodrębnij pliki" lub 7zip)
+W tym celu możesz użyć dowolnego narzedzia (np. wbudowane w Windows "Wyodrębnij pliki" lub 7zip)
 
 ### 3. Otwieramy konsolę i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
