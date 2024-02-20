@@ -34,7 +34,7 @@ mongod --dbpath db
 ```
 
 ### 6. Serwer powinien rozpocząć nasłuch na porcie 27017:
-Sprawdzamy czy serwer rozpoczął nasłuch. Jeśli wszystko się powiodło zauważymy komunikat "Waiting for connections". Konsola powinna zawisnąć w oczekiwaniu na połączenia klientów
+Sprawdzamy czy serwer rozpoczął nasłuch. Jeśli wszystko się powiodło zauważymy komunikat "Waiting for connections". Konsola powinna "zawisnąć" w oczekiwaniu na połączenia klientów
 
 ![](https://i.imgur.com/DgypFgd.png)
 
