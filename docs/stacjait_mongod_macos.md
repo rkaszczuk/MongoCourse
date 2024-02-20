@@ -50,4 +50,4 @@ Po odblokowaniu spróbuj ponownie uruchomić serwer:
 ![](https://i.imgur.com/8dStgcX.jpeg)
 
 ### 7. Wyłączenie serwera
-Jeśli wszystko zadziałało poprawnie możemy wyłączyć serwer. W tym celu należy użyć kombinacji ctrl+c. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer oraz wrócimy do konsoli
+Jeśli chcemy zakończyć pracę z MongoDB możemy użyć kombinacji ctrl+c w celu jego wyłączenia. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer i wrócimy do konsoli
