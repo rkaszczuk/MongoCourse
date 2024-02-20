@@ -15,7 +15,7 @@ Czesto pomimo braku oficjalnego wsparcia Mongo będzie na nim działać.
 Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będziesz musiał zapewnić sobie dostęp
 do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtaulej maszyny.
 
-Istnieje również możliwośc uruchomienia MongoDb w dockerze za pomocą oficjalnego obrazu. Zanim jednak sięgniesz po tą platformę upewnij się że znaszą ja na tyle żeby spomiedzenie wykonać proste konfiguracje jak np. przekierowanie portów.
+Istnieje również możliwośc uruchomienia MongoDB w dockerze za pomocą oficjalnego obrazu. Zanim jednak sięgniesz po tą platformę upewnij się że znaszą ja na tyle żeby spomiedzenie wykonać proste konfiguracje jak np. przekierowanie portów.
 
 ---
 ### Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
