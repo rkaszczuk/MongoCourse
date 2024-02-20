@@ -1,5 +1,13 @@
 ## MongoDB 6 - pobranie i uruchomienie serwera - Windows
 
+Instrukcja w formie video:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=O8d2qYWFbNk" target="_blank">
+ <img src="http://img.youtube.com/vi/O8d2qYWFbNk/maxresdefault.jpg" alt="Watch the video" width="600" height="337" border="10" />
+</a>
+
+
+
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
 
@@ -40,4 +48,6 @@ Sprawdzamy czy serwer rozpoczął nasłuch. Jeśli wszystko się powiodło zauwa
 
 ### 7. Wyłączenie serwera
 Jeśli wszystko zadziałało poprawnie możemy wyłączyć serwer. W tym celu należy użyć kombinacji ctrl+c. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer oraz wrócimy do konsoli
+
+
 
