@@ -3,8 +3,8 @@
 Instrukcja w formie video:
 
 <p align="center">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Lw_HixdHrnE" target="_blank">
- <img src="http://img.youtube.com/vi/Lw_HixdHrnE/maxresdefault.jpg" alt="Watch the video" width="600" height="337" border="10" />
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=O8d2qYWFbNk" target="_blank">
+ <img src="http://img.youtube.com/vi/O8d2qYWFbNk/maxresdefault.jpg" alt="Watch the video" width="600" height="337" border="10" />
 </a>
 </p>
 
