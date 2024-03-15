@@ -55,7 +55,7 @@ Przykładowy wybór:
 
 ![](https://i.imgur.com/yBtyYup.png)
 
-Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :slightly_smiling_face: )
+Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :slightly_smiling_face: )
 
 (Obsługa narzędzi bazodanowych zostanie omówiona na szkoleniu) 
 
