@@ -56,7 +56,7 @@ Przykładowy wybór:
 
 ![](https://i.imgur.com/LRjdFSx.png)
 
-Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :) )
+Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :) )
 
 ---
 ### 3. Połączenie do serwera
