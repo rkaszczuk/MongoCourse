@@ -62,46 +62,50 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 ### 3. Połączenie do serwera
 
 - #### Maszyna wirtualna PW:
-    a) Otwieramy nowy terminal
+  a) Otwieramy nowy terminal
     
-    b) Uruchamiamy proces mongosh:
+  b) Uruchamiamy proces mongosh:
     
     ```
     mongosh
     ```
     
-    c) W celu weryfikacji możemy uruchomić komendę:
+  c) W celu weryfikacji możemy uruchomić komendę:
     
     ```
     show dbs
     ```
 - #### Pozostałe maszyny:
-    a) Otwieramy nową konsolę / terminal
+  a) Otwieramy nową konsolę / terminal
   
-    b) Przechodzimy do katalogu (podkatalog bin) w którym wypakowaliśmy paczkę klienta mongosh, przykładowe wykonanie:
+  b) Przechodzimy do katalogu (podkatalog bin) w którym wypakowaliśmy paczkę klienta mongosh, przykładowe wykonanie:
     
     ```
     cd ....mongosh-2.1.x-xxxxx\bin
     ```
     
-    c) Uruchamiany konsolę klienta
-    
-        - Windows (zwykłe CMD)
-        ```
-        mongosh
-        ```
-    
-        - Linux / Windows (PowerShell)
-        ```
-        ./mongosh
-        ```
+  c) Uruchamiamy klienta mongosh:
+   - Windows (zwykłe CMD)
+
+      ```
+      mongosh
+      ```
+   - Linux / Windows (PowerShell)
   
-    d) W celu weryfikacji możemy uruchomić komendę 
+      ```
+      ./mongosh
+      ```
+    
+        
+
+  d) W celu weryfikacji możemy uruchomić komendę
+  
     ```
     show dbs
     ```
 
 
-    Przykładowe uruchomienie
+
+    Przykładowe uruchomienie:
     ![](https://i.imgur.com/BqLXb9f.png)
    
