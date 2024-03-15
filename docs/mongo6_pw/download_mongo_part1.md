@@ -16,24 +16,36 @@ Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będzies
 do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtualnej maszyny PW.
 
 
-
-    
-    
 ---
-### Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
+#### W celu rozpoczęcia pracy z MongoDB będziemy musieli wykonać następujące kroki:
+1. Pobrać paczkę serwera MongoDB (proces mongod) - krok pomijamy na maszynach PW
+2. Utworzyć katalog na dane
+3. Uruchomić proces serwer mongod wkazując folder na dane
+4. Pobrać paczkę konsoli klienta (proces mongosh) - krok pomijamy na maszynach PW
+5. Za pomocą klienta połączyć się z serwerem
+
+
+
+      
+---
+### 1. Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
 
 Na stronie https://www.mongodb.com/try/download/community 
 - wybieramy wersję 6.0.X
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
-[Pobranie i testowe uruchomienie serwera mongod - Windows ](mongod_windows.md)
+[Uruchomienie serwera mongod - Maszyny PW ](mongod_maszyny_pw.md)
 
-[Pobranie i testowe uruchomienie serwera mongod - Linux ](mongod_linux.md)
+[Pobranie i uruchomienie serwera mongod - Windows ](../mongo6/mongod_windows.md)
 
-[Pobranie i testowe uruchomienie serwera mongod - MacOS ](mongod_macos.md)
+[Pobranie i uruchomienie serwera mongod - Linux ](../mongo6/mongod_linux.md)
 
-###  Konsola klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji):
+[Pobranie i uruchomienie serwera mongod - MacOS ](../mongo6/mongod_macos.md)
+
+---
+### 2. (Krok pomijamy na maszynach PW) Pobranie konsoli klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji)
+
 
 Na stronie https://www.mongodb.com/try/download/shell
 - wybieramy wersję 2.1.X
@@ -46,4 +58,50 @@ Przykładowy wybór:
 
 Pobieramy i wypakowujący archiwum w dowolnej lokalizacji (którą oczywiście zapamiętujemy :) )
 
-(Uruchomienie konsoli klienta i proces połączenia z serwerem zostanie omówiony na szkoleniu)     
+---
+### 3. Połączenie do serwera
+
+- #### Maszyna wirtualna PW:
+    a) Otwieramy nowy terminal
+    
+    b) Uruchamiamy proces mongosh:
+    
+    ```
+    mongosh
+    ```
+    
+    c) W celu weryfikacji możemy uruchomić komendę:
+    
+    ```
+    show dbs
+    ```
+- #### Pozostałe maszyny:
+    a) Otwieramy nową konsolę / terminal
+  
+    b) Przechodzimy do katalogu (podkatalog bin) w którym wypakowaliśmy paczkę klienta mongosh, przykładowe wykonanie:
+    
+    ```
+    cd ....mongosh-2.1.x-xxxxx\bin
+    ```
+    
+    c) Uruchamiany konsolę klienta
+    
+        - Windows (zwykłe CMD)
+        ```
+        mongosh
+        ```
+    
+        - Linux / Windows (PowerShell)
+        ```
+        ./mongosh
+        ```
+  
+    d) W celu weryfikacji możemy uruchomić komendę 
+    ```
+    show dbs
+    ```
+
+
+    Przykładowe uruchomienie
+    ![](https://i.imgur.com/BqLXb9f.png)
+   
