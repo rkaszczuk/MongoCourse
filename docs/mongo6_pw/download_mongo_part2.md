@@ -1,3 +1,6 @@
+<h1 align="center"> NoSQLBooster + MongoDB Database Tools - dzień 2</h1>
+
+
 ## GUI do obsługi MongoDB - NoSQLBooster (wymagana instalacja na Windows)
 Cała cześć warsztatowa możliwa jest do realizacji w środowisku konsolowym, jednak ze względu na większą czytelność przeglądania danych zachęcam do wykorzystania środowiska graficznego i GUI.
 
