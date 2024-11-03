@@ -13,7 +13,7 @@ Instrukcja w formie video:
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
 
-![](https://i.imgur.com/ikWstUv.png)
+![](https://i.imgur.com/Vlu64HZ.png)
 
 Możemy to zrobić z poziomu przeglądarki lub skopiować link do konsoli
 ```
