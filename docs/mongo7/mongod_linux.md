@@ -1,4 +1,4 @@
-## MongoDB 6 - pobranie i uruchomienie serwera - Linux
+## MongoDB 7 - pobranie i uruchomienie serwera - Linux
 
 Instrukcja w formie video:
 
@@ -17,19 +17,19 @@ https://www.mongodb.com/try/download/community
 
 Możemy to zrobić z poziomu przeglądarki lub skopiować link do konsoli
 ```
-wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-xxxxxx-6.0.13.tgz
+wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-xxxxxx-7.0.15.tgz
 ```
 
 ### 2. Wypakowujemy pobrany plik
 W tym celu możemy użyć możemy użyć dowolnego narzędzia pozwalającego na wypakowanie archiwów .tgz, np. tar z poziomu konsoli:
 ```
-tar xvzf mongodb-linux-x86_64-xxxxxx-6.0.13.tgz
+tar xvzf mongodb-linux-x86_64-xxxxxx-7.0.15.tgz
 ```
 
 
 ### 3. Otwieramy konsolę i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
-cd ....mongodb-xxxxxxx-6.0.13\bin
+cd ....mongodb-xxxxxxx-7.0.15\bin
 ```
 ### 4. W podkatalogu bin tworzymy katalog na dane
 MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe umieścimy go w tym samym katalogu co binaria - żeby mieć do niego łatwy dostęp
@@ -38,7 +38,7 @@ MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe um
 mkdir db
 ```
 ### 5. Uruchamiamy serwer
-Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-6.0.13\bin uruchamiamy program mongod.
+Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-7.0.15\bin uruchamiamy program mongod.
 
 ```
 ./mongod --dbpath db
