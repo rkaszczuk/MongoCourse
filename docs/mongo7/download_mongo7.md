@@ -29,6 +29,7 @@ Na stronie https://www.mongodb.com/try/download/community
 
 [Pobranie i testowe uruchomienie serwera mongod - MacOS ](mongod_macos.md)
 
+---
 ###  Konsola klienta MongoDB Shell 2.3.X (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/shell
@@ -44,6 +45,8 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 
 (Uruchomienie konsoli klienta i proces połączenia z serwerem zostanie omówiony na szkoleniu) 
 
+---
+---
 ###  Zestaw narzędzi bazodanowych MongoDB Database Tools 100.10.X (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/database-tools
