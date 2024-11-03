@@ -1,25 +1,25 @@
-<h1 align="center"> MongoDB 6.0 </h1>
+<h1 align="center"> MongoDB 7.0 </h1>
 
 W ramach szkolenia wykorzystywać będziemy wersję portable MongoDB, która nie wymaga pełnej instalacji a jedynie wypakowania i uruchomienia binariów. Wersja jest w pełni funkcjonalna i pod kątem funkcjonalności nie różni się od wersji instalacyjnej.
 Mongo jest wysoce multiplatformowe - zachowuje się tak samo niezależnie od systemu operacyjnego. Jeśli planujesz w przyszłości hostować MongoDB na serwerze z Linuxem, a wygodniej będzie ci uczestniczyć w szkoleniach na komputerze z Windowsem, to nie stanowi to żadnego problemu. Zachowanie MongoDB i jego możliwości będą identyczne niezależnie od użytego systemu operacyjnego.
 
-W ramach części warsztatowej będziemy wykorzystywali wersję MongoDB 6.X. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
+W ramach części warsztatowej będziemy wykorzystywali wersję MongoDB 7.X. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
 
 Na zielono zaznaczyłem wszystkie oficjalnie wspierane systemy operacyjne.
 
-![](https://i.imgur.com/1nCx1Xj.png)
+![](https://i.imgur.com/NI8f8iZ.png)
 
 Jeśli twój system jest na szaro, albo nie ma go na liście - wciąż możesz spróbować uruchomić na nim Mongo.
-Często pomimo braku oficjalnego wsparcia Mongo będzie na nim działać (np. MacOS 13)
+Często pomimo braku oficjalnego wsparcia Mongo będzie na nim działać.
 
 Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będziesz musiał zapewnić sobie dostęp
 do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtualnej maszyny.
 
 ---
-### Serwer MongoDB 6.0.X (portable - nie wymaga instalacji)
+### Serwer MongoDB 7.0.X (portable - nie wymaga instalacji)
 
 Na stronie https://www.mongodb.com/try/download/community 
-- wybieramy wersję 6.0.X
+- wybieramy wersję 7.0.X
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
@@ -29,10 +29,10 @@ Na stronie https://www.mongodb.com/try/download/community
 
 [Pobranie i testowe uruchomienie serwera mongod - MacOS ](mongod_macos.md)
 
-###  Konsola klienta MongoDB Shell 2.1.X (portable - nie wymaga instalacji):
+###  Konsola klienta MongoDB Shell 2.3.X (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/shell
-- wybieramy wersję 2.1.X
+- wybieramy wersję 2.3.X
 - nasz system operacyjny (dla Linuxa należy wybrać uniwersalną paczkę Linux x64)
 - Packages -> zip lub tgz
 
@@ -44,10 +44,10 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 
 (Uruchomienie konsoli klienta i proces połączenia z serwerem zostanie omówiony na szkoleniu) 
 
-###  Zestaw narzędzi bazodanowych MongoDB Database Tools 100.9.X (portable - nie wymaga instalacji):
+###  Zestaw narzędzi bazodanowych MongoDB Database Tools 100.10.X (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/database-tools
-- wybieramy wersję 100.9.X 
+- wybieramy wersję 100.10.X 
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
