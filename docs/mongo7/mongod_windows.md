@@ -1,4 +1,4 @@
-## MongoDB 6 - pobranie i uruchomienie serwera - Windows
+## MongoDB 7 - pobranie i uruchomienie serwera - Windows
 
 Instrukcja w formie video:
 
@@ -14,13 +14,13 @@ Instrukcja w formie video:
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
 
-![](https://i.imgur.com/nxsCgly.png)
+![](https://i.imgur.com/EWiHNyL.png)
 
 ### 2. Wypakowujemy pobrany plik
 
 ### 3. Otwieramy konsolę i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
-cd ....mongodb-xxxxxxx-6.0.XX\bin
+cd ....mongodb-xxxxxxx-7.0.XX\bin
 ```
 ### 4. W podkatalogu bin tworzymy katalog na dane
 MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe umieścimy go w tym samym katalogu co binaria - żeby mieć do niego łatwy dostęp
@@ -29,7 +29,7 @@ MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe um
 mkdir db
 ```
 ### 5. Uruchamiamy serwer
-Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-6.0.XX\bin uruchamiamy program mongod.
+Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-7.0.XX\bin uruchamiamy program mongod.
 
 Komenda będzie różnić się w zależności od użytej w windowsie "konsoli" 
 
@@ -49,4 +49,4 @@ Sprawdzamy czy serwer rozpoczął nasłuch. Jeśli wszystko się powiodło zauwa
 ![](https://i.imgur.com/DgypFgd.png)
 
 ### 7. Wyłączenie serwera
-Jeśli wszystko zadziałało to możemy zakończyć pracę z MongoDB możemy użyć kombinacji ctrl+c w celu jego wyłączenia. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer i wrócimy do konsoli
+Jeśli wszystko zadziałało i chcemy zakończyć pracę z MongoDB możemy użyć kombinacji ctrl+c w celu jego wyłączenia. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer i wrócimy do konsoli
