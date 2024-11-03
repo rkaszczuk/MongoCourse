@@ -1,4 +1,4 @@
-## MongoDB 6 - pobranie i uruchomienie serwera - MacOS
+## MongoDB 7 - pobranie i uruchomienie serwera - MacOS
 
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
