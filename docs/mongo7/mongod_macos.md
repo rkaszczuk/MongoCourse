@@ -3,7 +3,8 @@
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
 
-![](https://i.imgur.com/Q7StCct.png)
+Przykładowy wybór:
+![](https://i.imgur.com/LMbKfWU.png)
 
 ### 2. Wypakowujemy pobrany plik
 W tym celu możemy użyć dowolnego narzędzia pozwalającego na wypakowanie archiwów .tgz, np Archive Utility
@@ -14,7 +15,7 @@ Po wypakowaniu naszym oczom powinien ukazać się podkatalog bin z mongod
 
 ### 3. Otwieramy terminal i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
-cd ....mongodb-xxxxxxx-6.0.13\bin
+cd ....mongodb-xxxxxxx-7.0.15\bin
 ```
 
 ### 4. W podkatalogu bin tworzymy katalog na dane
@@ -25,7 +26,7 @@ mkdir db
 ```
 
 ### 5. Uruchamiamy serwer
-Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-6.0.13\bin uruchamiamy program mongod.
+Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-7.0.15\bin uruchamiamy program mongod.
 
 ```
 ./mongod --dbpath db
