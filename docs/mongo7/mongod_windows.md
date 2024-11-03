@@ -49,4 +49,4 @@ Sprawdzamy czy serwer rozpoczął nasłuch. Jeśli wszystko się powiodło zauwa
 ![](https://i.imgur.com/DgypFgd.png)
 
 ### 7. Wyłączenie serwera
-Jeśli wszystko zadziałało i chcemy zakończyć pracę z MongoDB możemy użyć kombinacji ctrl+c w celu jego wyłączenia. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer i wrócimy do konsoli
+Jeśli chcemy zakończyć pracę z MongoDB możemy użyć kombinacji ctrl+c w celu jego wyłączenia. Po chwili zauważymy komunikaty potwierdzające zamknięcie serwer i wrócimy do konsoli
