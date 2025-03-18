@@ -35,6 +35,8 @@ Na stronie https://www.mongodb.com/try/download/community
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
+Następnie uruchamiamy serwer według jednej z poniższych instrukcji:
+
 [Uruchomienie serwera mongod - Maszyny PW ](mongod_maszyny_pw.md)
 
 [Pobranie i uruchomienie serwera mongod - Windows ](../mongo6/mongod_windows.md)
@@ -48,7 +50,7 @@ Na stronie https://www.mongodb.com/try/download/community
 
 
 Na stronie https://www.mongodb.com/try/download/shell
-- wybieramy wersję 2.1.X
+- wybieramy wersję 2.4.X
 - nasz system operacyjny (dla Linuxa należy wybrać uniwersalną paczkę Linux x64)
 - Packages -> zip lub tgz
 
