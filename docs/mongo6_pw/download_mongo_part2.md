@@ -48,7 +48,7 @@ tar xvzf mongodb-database-tools-XXXXXXX-100.12.0.tgz
 ```
 - #### Windows:
 Pobieramy paczkę: 
-[https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.9.4.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.12.0.zip)
+[https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.12.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.12.0.zip)
 
 i wypakowujemy za pomocą dowolnego narzędzia
 
