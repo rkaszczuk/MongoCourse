@@ -23,9 +23,12 @@ Na stronie https://www.mongodb.com/try/download/community
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
-Przykładowy wybór:
 
-![](https://i.imgur.com/njtqujN.png)
+[Pobranie i testowe uruchomienie serwera mongod - Windows ](mongod_windows.md)
+
+[Pobranie i testowe uruchomienie serwera mongod - Linux ](mongod_linux.md)
+
+[Pobranie i testowe uruchomienie serwera mongod - MacOS ](mongod_macos.md)
 
 ---
 ###  Konsola klienta MongoDB Shell (portable - nie wymaga instalacji):
