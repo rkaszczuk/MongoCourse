@@ -28,7 +28,7 @@ Przykładowy wybór:
 ![](https://i.imgur.com/njtqujN.png)
 
 ---
-###  Konsola klienta MongoDB Shell 2.3.X (portable - nie wymaga instalacji):
+###  Konsola klienta MongoDB Shell (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/shell
 - wybieramy wersję 2.5.X
@@ -46,7 +46,7 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 
 ---
 ---
-###  Zestaw narzędzi bazodanowych MongoDB Database Tools 100.10.X (portable - nie wymaga instalacji):
+###  Zestaw narzędzi bazodanowych MongoDB Database Tools (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/database-tools
 - wybieramy wersję 100.12.X 
