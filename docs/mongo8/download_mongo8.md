@@ -13,7 +13,7 @@ Jeśli twój system jest na szaro, albo nie ma go na liście - wciąż możesz s
 Często pomimo braku oficjalnego wsparcia Mongo będzie na nim działać.
 
 Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będziesz musiał zapewnić sobie dostęp
-do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtualnej maszyny.
+do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtualnej maszyny. W ostateczności możesz zdecydować się na wybór starszej wersji MongoDB, ale bądź przygotowany że mogą wtedy wystąpić sporadyczne, drobne różnice w zapytaniach.
 
 ---
 ### Serwer MongoDB 8.0.X (portable - nie wymaga instalacji)
