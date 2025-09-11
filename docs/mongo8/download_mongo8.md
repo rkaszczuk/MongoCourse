@@ -52,7 +52,7 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 ###  Zestaw narzędzi bazodanowych MongoDB Database Tools (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/database-tools
-- wybieramy wersję 100.12.X 
+- wybieramy wersję 100.13.X 
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
