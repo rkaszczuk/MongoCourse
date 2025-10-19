@@ -42,13 +42,13 @@ Link zależy od konkretnej dystrybucji
 Przykładowe pobranie i wypakowanie z poziomu konsoli:
 
 ```
-wget https://fastdl.mongodb.org/tools/db/mongodb-database-tools-XXXXXXX-100.12.0.tgz
+wget https://fastdl.mongodb.org/tools/db/mongodb-database-tools-XXXXXXX-100.13.0.tgz
 
-tar xvzf mongodb-database-tools-XXXXXXX-100.12.0.tgz
+tar xvzf mongodb-database-tools-XXXXXXX-100.13.0.tgz
 ```
 - #### Windows:
 Pobieramy paczkę: 
-[https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.12.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.12.0.zip)
+[https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.13.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.13.0.zip)
 
 i wypakowujemy za pomocą dowolnego narzędzia
 
@@ -56,11 +56,11 @@ i wypakowujemy za pomocą dowolnego narzędzia
 
 Pobieramy paczkę:
 
-x86:  [https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-x86_64-100.12.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-x86_64-100.12.0.zip)
+x86:  [https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-x86_64-100.13.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-x86_64-100.13.0.zip)
 
 lub
 
-ARM:  [https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-arm64-100.12.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-arm64-100.12.0.zip)
+ARM:  [https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-arm64-100.13.0.zip](https://fastdl.mongodb.org/tools/db/mongodb-database-tools-macos-arm64-100.13.0.zip)
 
 </br>
 i wypakowujemy za pomocą dowolnego narzędzia
@@ -78,7 +78,7 @@ mongoimport --help
 - #### Pozostałe systemy
 1. Otwieramy nową konsole / terminal
 3. Przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
-cd ....mongodb-database-tools-xxxxxxx-100.9.4\bin
+cd ....mongodb-database-tools-xxxxxxx-100.13.0\bin
 4. Sprawdzamy czy mongoimport działa:
 
 Windows (starszy / zwykłe CMD):
@@ -105,7 +105,7 @@ Przykładowe wykonanie (pobranie za pomocą konsoli, wypakowanie i testowe uruch
       
       https://github.com/rkaszczuk/MongoCourse/raw/master/0_Movies_Data/moviesBackup.tar.gz
 
-2. Wypakować i przekopiować zawartośc do katalogu ....mongodb-database-tools-xxxxxxx-100.9.4\bin
+2. Wypakować i przekopiować zawartośc do katalogu ....mongodb-database-tools-xxxxxxx-100.13.0\bin
 
       Windows / Linux (GUI):
       Ctrl+C / Ctrl+V z poziomu UI
