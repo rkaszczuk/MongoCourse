@@ -23,7 +23,7 @@
 
     <properties>
         <slf4j.version>1.7.1</slf4j.version>
-        <spring-data-mongodb.version>1.6.2.RELEASE</spring-data-mongodb.version>
+        <spring-data-mongodb.version>3.3.5</spring-data-mongodb.version>
     </properties>
 
     <dependencies>
