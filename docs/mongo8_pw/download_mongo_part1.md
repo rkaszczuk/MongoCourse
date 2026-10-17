@@ -37,7 +37,7 @@ Następnie uruchamiamy serwer według jednej z poniższych instrukcji:
 ### 2. Konsola klienta MongoDB Shell (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/shell
-- wybieramy wersję 2.5.X
+- wybieramy wersję 2.X.X
 - nasz system operacyjny (dla Linuxa należy wybrać uniwersalną paczkę Linux x64)
 - Packages -> zip lub tgz
 
@@ -53,7 +53,7 @@ a) Otwieramy nową konsolę / terminal
 b) Przechodzimy do katalogu (podkatalog bin) w którym wypakowaliśmy paczkę klienta mongosh, przykładowe wykonanie:
  
   ```
-  cd ....mongosh-2.5.x-xxxxx\bin
+  cd ....mongosh-2.x.x-xxxxx\bin
   ```
     
 c) Uruchamiamy klienta mongosh:
