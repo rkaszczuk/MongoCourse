@@ -1,4 +1,4 @@
-## MongoDB 8 - pobranie i uruchomienie serwera - Linux
+## MongoDB 8.3 - pobranie i uruchomienie serwera - Linux
 
 Instrukcja w formie video:
 
@@ -14,23 +14,24 @@ Instrukcja w formie video:
 https://www.mongodb.com/try/download/community
 
 Przykładowy wybór:
-![](https://i.imgur.com/090KLCN.png)
+
+![](img/m83_linux.png)
 
 Możemy to zrobić z poziomu przeglądarki lub skopiować link do konsoli
 ```
-wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-xxxxxx-8.0.X.tgz
+wget https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-xxxxxx-8.3.X.tgz
 ```
 
 ### 2. Wypakowujemy pobrany plik
 W tym celu możemy użyć możemy użyć dowolnego narzędzia pozwalającego na wypakowanie archiwów .tgz, np. tar z poziomu konsoli:
 ```
-tar xvzf mongodb-linux-x86_64-xxxxxx-8.0.X.tgz
+tar xvzf mongodb-linux-x86_64-xxxxxx-8.3.X.tgz
 ```
 
 
 ### 3. Otwieramy konsolę i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
-cd ....mongodb-xxxxxxx-8.0.X\bin
+cd ....mongodb-xxxxxxx-8.3.X\bin
 ```
 ### 4. W podkatalogu bin tworzymy katalog na dane
 MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe umieścimy go w tym samym katalogu co binaria - żeby mieć do niego łatwy dostęp
@@ -39,7 +40,7 @@ MongoDB potrzebuje katalogu na przechowywanie danych. Na potrzeby warsztatowe um
 mkdir db
 ```
 ### 5. Uruchamiamy serwer
-Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-8.0.X\bin uruchamiamy program mongod.
+Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-8.3.X\bin uruchamiamy program mongod.
 
 ```
 ./mongod --dbpath db
