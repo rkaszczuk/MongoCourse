@@ -39,7 +39,7 @@ Na stronie https://www.mongodb.com/try/download/shell
 - nasz system operacyjny (dla Linuxa należy wybrać uniwersalną paczkę Linux x64)
 - Packages -> zip lub tgz
 
-Przykładowy wybór:
+Przykładowy wybór (dokładny numer wersji dostępnej na stronie może się różnić od tej widocznej na zrzucie):
 
 ![](https://i.imgur.com/VusvnI4.png)
 
@@ -57,7 +57,7 @@ Na stronie https://www.mongodb.com/try/download/database-tools
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
-Przykładowy wybór:
+Przykładowy wybór (dokładny numer wersji dostępnej na stronie może się różnić od tej widocznej na zrzucie):
 
 ![](https://i.imgur.com/h2RMA8m.png)
 
@@ -66,7 +66,7 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 (Obsługa narzędzi bazodanowych zostanie omówiona na szkoleniu) 
 
 
-### GUI do obsługi MongoDB - NoSQLBooster (wymagana instalacja na Windows)
+### GUI do obsługi MongoDB - NoSQLBooster
 Cała cześć warsztatowa możliwa jest do realizacji w środowisku konsolowym, jednak ze względu na większą czytelność przeglądania danych zachęcam do wykorzystania środowiska graficznego i GUI.
 
 - Ze strony: https://nosqlbooster.com/downloads wersję portable zip/tgz lub instalator i rozpakowujemy/instalujemy w zależności od wybranej wersji
