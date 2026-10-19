@@ -1,9 +1,9 @@
-<h1 align="center"> MongoDB 8.0 </h1>
+<h1 align="center"> MongoDB 8.3 </h1>
 
 W ramach szkolenia wykorzystywać będziemy wersję portable MongoDB, która nie wymaga pełnej instalacji a jedynie wypakowania i uruchomienia binariów. Wersja jest w pełni funkcjonalna i pod kątem funkcjonalności nie różni się od wersji instalacyjnej.
 Mongo jest wysoce multiplatformowe - zachowuje się tak samo niezależnie od systemu operacyjnego. Jeśli planujesz w przyszłości hostować MongoDB na serwerze z Linuxem, a wygodniej będzie ci uczestniczyć w szkoleniach na komputerze z Windowsem, to nie stanowi to żadnego problemu. Zachowanie MongoDB i jego możliwości będą identyczne niezależnie od użytego systemu operacyjnego.
 
-W ramach części warsztatowej będziemy wykorzystywali wersję MongoDB 8.0. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
+W ramach części warsztatowej będziemy wykorzystywali wersję MongoDB 8.3. Zanim przejdziemy dalej upewnij się że twój system operacyjny jest z nią kompatybilny.
 
 Na zielono zaznaczyłem wszystkie oficjalnie wspierane systemy operacyjne.
 
@@ -16,10 +16,11 @@ Jeśli próba uruchomienia się nie powiedzie to aby korzystać z Mongo będzies
 do jednego ze wspieranych systemów operacyjnych np. za pomocą wirtualnej maszyny. W ostateczności możesz zdecydować się na wybór starszej wersji MongoDB, ale bądź przygotowany że mogą wtedy wystąpić sporadyczne, drobne różnice w zapytaniach.
 
 ---
-### Serwer MongoDB 8.0.X (portable - nie wymaga instalacji)
+### Serwer MongoDB 8.3.X (portable - nie wymaga instalacji)
 
 Na stronie https://www.mongodb.com/try/download/community 
-- wybieramy wersję 8.0.X
+- jeśli wyświetli się okno wyboru Community / Atlas -> wybierz Community
+- wybieramy wersję 8.3.X
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
@@ -34,7 +35,7 @@ Na stronie https://www.mongodb.com/try/download/community
 ###  Konsola klienta MongoDB Shell (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/shell
-- wybieramy wersję 2.5.X
+- wybieramy wersję 2.X.X
 - nasz system operacyjny (dla Linuxa należy wybrać uniwersalną paczkę Linux x64)
 - Packages -> zip lub tgz
 
@@ -52,7 +53,7 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 ###  Zestaw narzędzi bazodanowych MongoDB Database Tools (portable - nie wymaga instalacji):
 
 Na stronie https://www.mongodb.com/try/download/database-tools
-- wybieramy wersję 100.13.X 
+- wybieramy wersję 100.X.X 
 - nasz system operacyjny
 - Packages -> zip lub tgz
 
@@ -68,7 +69,7 @@ Pobieramy i wypakowujemy archiwum w dowolnej lokalizacji (którą oczywiście za
 ### GUI do obsługi MongoDB - NoSQLBooster (wymagana instalacja na Windows)
 Cała cześć warsztatowa możliwa jest do realizacji w środowisku konsolowym, jednak ze względu na większą czytelność przeglądania danych zachęcam do wykorzystania środowiska graficznego i GUI.
 
-- Ze strony: https://nosqlbooster.com/downloads pobieramy instalator (lub dla systemów Linux paczkę tgz) i go uruchamiamy.
+- Ze strony: https://nosqlbooster.com/downloads wersję portable zip/tgz lub instalator i rozpakowujemy/instalujemy w zależności od wybranej wersji
 - Uruchamiamy aplikacje NoSQLBooster for MongoDB i sprawdzamy czy pojawi się GUI
 
 Jeśli korzystasz już z innego GUI (np. Studio3t) to śmiało możesz użyć go na szkoleniu. Ważne żeby GUI miało możliwość wpisywania pełnych komend. 
