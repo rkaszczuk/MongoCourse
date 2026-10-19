@@ -1,10 +1,11 @@
-## MongoDB 8 - pobranie i uruchomienie serwera - MacOS
+## MongoDB 8.3 - pobranie i uruchomienie serwera - MacOS
 
 ### 1. Pobieramy binaria odpowiednie dla naszego systemu operacyjnego:
 https://www.mongodb.com/try/download/community
 
 Przykładowy wybór:
-![](https://i.imgur.com/JzGNUHn.png)
+
+![](img/m83_mac.png)
 
 ### 2. Wypakowujemy pobrany plik
 W tym celu możemy użyć dowolnego narzędzia pozwalającego na wypakowanie archiwów .tgz, np Archive Utility
@@ -15,7 +16,7 @@ Po wypakowaniu naszym oczom powinien ukazać się podkatalog bin z mongod
 
 ### 3. Otwieramy terminal i przechodzimy do katalogu w którym wypakowaliśmy archiwum, wchodzimy do katalogu bin:
 ```
-cd ....mongodb-xxxxxxx-8.0.X\bin
+cd ....mongodb-xxxxxxx-8.3.X\bin
 ```
 
 ### 4. W podkatalogu bin tworzymy katalog na dane
@@ -26,7 +27,7 @@ mkdir db
 ```
 
 ### 5. Uruchamiamy serwer
-Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-8.0.X\bin uruchamiamy program mongod.
+Za pomocą konsoli, z poziomu katalogu ....mongodb-xxxxxxx-8.3.X\bin uruchamiamy program mongod.
 
 ```
 ./mongod --dbpath db
